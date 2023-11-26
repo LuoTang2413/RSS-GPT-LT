@@ -1,3 +1,6 @@
+
+RSS URL：https://luotang2413.github.io/RSS-GPT-LT/
+
 # RSS-GPT
 
 [![](https://img.shields.io/github/last-commit/yinan-c/RSS-GPT/dev?label=updated)](https://github.com/yinan-c/RSS-GPT/tree/dev)
