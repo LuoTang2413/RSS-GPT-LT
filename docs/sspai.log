@@ -8620,3 +8620,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
 append_entries: 1
 Finish: 2023-11-26 10:09:36.021601
+------------------------------------------------------
+Started: 2023-11-26 12:16:41.922940
+Existing_entries: 269
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-26 12:16:42.136759
