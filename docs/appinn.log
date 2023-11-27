@@ -8564,3 +8564,11 @@ Append: [求一个辅助拼图的APP](https://meta.appinn.net/t/topic/49719)
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2023-11-27 10:11:19.174551
+------------------------------------------------------
+Started: 2023-11-27 12:18:57.739550
+Existing_entries: 163
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2023-11-27 12:19:01.399145
