@@ -8686,3 +8686,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 append_entries: 1
 Finish: 2023-11-27 06:13:55.160188
+------------------------------------------------------
+Started: 2023-11-27 08:14:12.605461
+Existing_entries: 271
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-27 08:14:12.794891
