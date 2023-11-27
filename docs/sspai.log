@@ -8677,3 +8677,12 @@ Existing_entries: 270
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-27 04:12:35.976602
+------------------------------------------------------
+Started: 2023-11-27 06:13:51.379527
+Existing_entries: 270
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
+append_entries: 1
+Finish: 2023-11-27 06:13:55.160188
