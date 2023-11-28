@@ -8788,3 +8788,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [译文 | iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)
 append_entries: 2
 Finish: 2023-11-28 10:11:24.372217
+------------------------------------------------------
+Started: 2023-11-28 12:18:50.777040
+Existing_entries: 277
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-28 12:18:50.927274
