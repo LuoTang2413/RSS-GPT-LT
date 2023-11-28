@@ -8767,3 +8767,12 @@ Existing_entries: 274
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-11-28 06:13:45.041749
+------------------------------------------------------
+Started: 2023-11-28 08:13:24.507291
+Existing_entries: 274
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
+append_entries: 1
+Finish: 2023-11-28 08:13:27.833245
