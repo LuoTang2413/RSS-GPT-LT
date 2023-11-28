@@ -8776,3 +8776,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 append_entries: 1
 Finish: 2023-11-28 08:13:27.833245
+------------------------------------------------------
+Started: 2023-11-28 10:11:17.915266
+Existing_entries: 275
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 022｜播客十年、旗舰苹果店以及实用的新玩意](https://sspai.com/post/84689)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [译文 | iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)
+append_entries: 2
+Finish: 2023-11-28 10:11:24.372217
