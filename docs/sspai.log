@@ -8863,3 +8863,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [从创造需求到满足需求：漫谈我的 iPad 十年体验](https://sspai.com/post/84581)
 append_entries: 1
 Finish: 2023-11-29 08:13:29.425035
+------------------------------------------------------
+Started: 2023-11-29 10:10:59.122772
+Existing_entries: 280
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-29 10:10:59.295166
