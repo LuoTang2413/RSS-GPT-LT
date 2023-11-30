@@ -8932,3 +8932,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 append_entries: 1
 Finish: 2023-11-30 04:12:46.835089
+------------------------------------------------------
+Started: 2023-11-30 06:13:29.258198
+Existing_entries: 283
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-11-30 06:13:29.461038
