@@ -11148,3 +11148,16 @@ Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/tex
 Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
 append_entries: 0
 Finish: 2023-11-30 14:09:47.377592
+------------------------------------------------------
+Started: 2023-11-30 16:13:29.836060
+Existing_entries: 76
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [SaneBox giveaway surprise!](https://brett.trpstra.net/link/535/16477304/sanebox-giveaway-surprise)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+Filter: [The TextExpander giveaway winners!](https://brett.trpstra.net/link/535/16404215/the-textexpander-giveaway-winners)
+Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/textexpander-giveaway)
+Filter: [TextExpander - focus on what's most important [Sponsor]](https://brett.trpstra.net/link/535/16392183/textexpander-focus-on-whats-most-important-sponsor)
+append_entries: 1
+Finish: 2023-11-30 16:13:33.669425
