@@ -6545,3 +6545,32 @@ Filter: [36氪首发 | 「中科慧远」完成数亿元C+轮融资，推动AI�
 Filter: [Keras 3.0正式发布，一统TF/PyTorch/Jax三大后端框架，网友：改变游戏规则](https://www.36kr.com/p/2540050021148423)
 append_entries: 1
 Finish: 2023-11-30 10:11:22.317972
+------------------------------------------------------
+Started: 2023-11-30 12:18:58.725121
+Existing_entries: 321
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [AI颠覆材料学，DeepMind重磅研究登Nature，预测220万晶体结构赢人类800年](https://www.36kr.com/p/2540672541468167)
+Filter: [月之暗面杨植麟：大模型进入长文本时代，无损压缩才是有效的规模化 | WISE2023商业之王大会](https://www.36kr.com/p/2540635223320073)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [ChatGPT一周年，差点吓死OpenAI](https://www.36kr.com/p/2540592526337544)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [ChatGPT新漏洞：失控背出个人隐私泄露训练数据，OpenAI修复后依然有效](https://www.36kr.com/p/2540596796712450)
+Append: [ChatGPT发布一年后，马斯克的大模型Grok也将正式上线](https://www.36kr.com/p/2540604079351305)
+Append: [微软拿下OpenAI董事会席位，奥特曼首次回应Q*：不幸的泄密事件](https://www.36kr.com/p/2540588999697929)
+Filter: [热钱涌向大模型，但场景和应用才是创业者的机会｜CTO视角](https://www.36kr.com/p/2540571209410304)
+Filter: [大健康风口之下，16年全栈程序员转身投入大模型浪潮｜我爱黑「可颂」路演项目专访](https://www.36kr.com/p/2540561058047752)
+Filter: [又一场AI“宫斗”要上演？盈利困难、投资人开撕CEO](https://www.36kr.com/p/2540517195523843)
+Filter: [英伟达黄仁勋的豪赌：行走在破产边缘，打造万亿 AI 「军火商」](https://www.36kr.com/p/2540260382697218)
+Filter: [达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://www.36kr.com/p/2540294211643144)
+Filter: [信息行业研报：人工智能和物联网加快智慧城市到来](https://www.36kr.com/p/2540129030594437)
+Filter: [追赶微软谷歌，亚马逊两日推出多项 AI 功能](https://www.36kr.com/p/2540373852496004)
+Filter: [闻道AI联合创始人朱悦瀛：AI赋能商业信息检索 | WISE2023商业之王大会](https://www.36kr.com/p/2540248272643586)
+Filter: [嘉实基金王贵重：从能源革命到信息革命，把握ALOT时代的投资机遇](https://www.36kr.com/p/2540442714580484)
+Filter: [8大策略，让你的AI应用性能飞上天！| 抄作业啦](https://www.36kr.com/p/2540431464489093)
+Filter: [专精特新下半场：AI算力驱动竞争力升级｜专精时氪直播回顾](https://www.36kr.com/p/2540307321972481)
+Filter: [面壁智能联合创始人刘知远：AI的第二次智能涌现，是群体智能的涌现 | WISE2023商业之王大会](https://www.36kr.com/p/2540349049300481)
+Filter: [马云发声，电商进入AI时代，产业链公司名单来了](https://www.36kr.com/p/2540229445920514)
+append_entries: 4
+Finish: 2023-11-30 12:19:05.321139

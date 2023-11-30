@@ -8956,3 +8956,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [本月玩什么 | 塔洛斯的法则 2、This Bed We Made、Thirsty Suitors、超级舞动 瓦力欧制造](https://sspai.com/post/84726)
 append_entries: 1
 Finish: 2023-11-30 10:10:54.944501
+------------------------------------------------------
+Started: 2023-11-30 12:18:46.597261
+Existing_entries: 285
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 166｜少数派的编辑们最近买了啥？](https://sspai.com/post/84740)
+append_entries: 1
+Finish: 2023-11-30 12:18:49.916828
