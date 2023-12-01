@@ -9037,3 +9037,16 @@ Existing_entries: 288
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-01 10:11:11.774393
+------------------------------------------------------
+Started: 2023-12-01 12:18:50.547217
+Existing_entries: 288
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)
+Append: [让折叠屏手机内屏交互更高效好用，OPPO Find N3 是如何呈现的？](https://sspai.com/post/84733)
+append_entries: 3
+Finish: 2023-12-01 12:18:56.938752
