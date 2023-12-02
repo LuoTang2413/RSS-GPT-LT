@@ -9104,3 +9104,12 @@ Existing_entries: 291
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-02 06:12:39.687972
+------------------------------------------------------
+Started: 2023-12-02 08:11:38.961259
+Existing_entries: 291
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
+append_entries: 1
+Finish: 2023-12-02 08:11:42.208748
