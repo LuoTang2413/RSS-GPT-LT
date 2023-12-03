@@ -9194,3 +9194,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)
 append_entries: 1
 Finish: 2023-12-03 10:09:59.258109
+------------------------------------------------------
+Started: 2023-12-03 12:17:06.414554
+Existing_entries: 293
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-03 12:17:06.641122
