@@ -9185,3 +9185,12 @@ Existing_entries: 292
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-03 08:12:06.246526
+------------------------------------------------------
+Started: 2023-12-03 10:09:55.960263
+Existing_entries: 292
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)
+append_entries: 1
+Finish: 2023-12-03 10:09:59.258109
