@@ -9254,3 +9254,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-04 12:18:45.178232
+------------------------------------------------------
+Started: 2023-12-04 14:09:47.749353
+Existing_entries: 173
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome扩展新版要求manifest v3对油猴、adblock之类扩展的限制](https://meta.appinn.net/t/topic/49938)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-04 14:09:51.373129
