@@ -9257,3 +9257,15 @@ Existing_entries: 294
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-04 06:14:01.270348
+------------------------------------------------------
+Started: 2023-12-04 08:13:45.351955
+Existing_entries: 294
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [思路分享：制定最适合你的体检项目](https://sspai.com/post/84739)
+append_entries: 2
+Finish: 2023-12-04 08:13:52.275932
