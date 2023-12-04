@@ -9269,3 +9269,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [思路分享：制定最适合你的体检项目](https://sspai.com/post/84739)
 append_entries: 2
 Finish: 2023-12-04 08:13:52.275932
+------------------------------------------------------
+Started: 2023-12-04 10:12:00.600302
+Existing_entries: 296
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
+append_entries: 1
+Finish: 2023-12-04 10:12:03.960378
