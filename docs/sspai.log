@@ -9371,3 +9371,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
 append_entries: 1
 Finish: 2023-12-05 12:18:56.649564
+------------------------------------------------------
+Started: 2023-12-05 14:09:57.935541
+Existing_entries: 302
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-05 14:09:58.088099
