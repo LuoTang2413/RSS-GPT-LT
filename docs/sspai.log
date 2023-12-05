@@ -9356,3 +9356,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
 append_entries: 1
 Finish: 2023-12-05 08:13:28.754398
+------------------------------------------------------
+Started: 2023-12-05 10:11:43.719582
+Existing_entries: 301
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-05 10:11:43.895263
