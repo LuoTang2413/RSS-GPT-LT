@@ -9362,3 +9362,12 @@ Existing_entries: 301
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-05 10:11:43.895263
+------------------------------------------------------
+Started: 2023-12-05 12:18:52.844751
+Existing_entries: 301
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
+append_entries: 1
+Finish: 2023-12-05 12:18:56.649564
