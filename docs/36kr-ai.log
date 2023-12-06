@@ -8148,3 +8148,29 @@ Filter: [接入大模型，手机终于要长“脑子”了？](https://www.36k
 Filter: [颠覆Transformer霸权，CMU普林斯顿推Mamba新架构，解决致命bug推理速度暴增5倍](https://www.36kr.com/p/2547379574166664)
 append_entries: 1
 Finish: 2023-12-06 06:14:03.280599
+------------------------------------------------------
+Started: 2023-12-06 08:13:23.929995
+Existing_entries: 342
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [抖音跳舞不用真人出镜，一张照片就能生成高质量视频，字节新技术连抱抱脸CTO都下场体验了](https://www.36kr.com/p/2548790677576066)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Meta牵头组建开源「AI复仇者联盟」，AMD等盟友800亿美元力战OpenAI英伟达](https://www.36kr.com/p/2548821439862917)
+Filter: [AI颠覆数学研究，陶哲轩借AI破解数学猜想，形式化成功惊呆数学圈](https://www.36kr.com/p/2548821238208900)
+Filter: [大模型越狱，价值百亿的猫鼠游戏｜Future](https://www.36kr.com/p/2548883425892483)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI 重金押注的「类脑」AI 芯片，到底是什么？](https://www.36kr.com/p/2548767220013192)
+Filter: [大海则煤矿实现5G通信全覆盖，多项智能化生产应用落地｜最前线](https://www.36kr.com/p/2548627791452290)
+Filter: [追一科技吴悦：一家做了7年NLP的公司，如何抓住大模型浪潮？ | 36氪专访](https://www.36kr.com/p/2546102512297480)
+Filter: [美图发布自研视觉大模型4.0，主打AI设计与AI视频｜最前线](https://www.36kr.com/p/2548618795866501)
+Filter: [助力富豪找回儿子的格灵深瞳，尚未摆脱亏损泥潭](https://www.36kr.com/p/2548574963916931)
+Filter: [GPT-4 未通过图灵测试，GPT-3.5 还败给六十年前的老 AI 系统，最新研究出炉](https://www.36kr.com/p/2548527672694912)
+Filter: [一个月超3万个GPTs，深扒全球Top 50 GPTs，谁是民间GPT王者？](https://www.36kr.com/p/2548041566427527)
+Filter: [8个月238个大模型，中国AI奔向何处？](https://www.36kr.com/p/2547755411707521)
+Filter: [大模型助力健康管理，通过认知行为疗法改变知易行难｜我爱黑「可颂」路演项目专访](https://www.36kr.com/p/2547746746717832)
+Filter: [中国AI大模型，应该如何商业化？](https://www.36kr.com/p/2547640530408584)
+Filter: [大模型时代，AI芯片行业上演“三国杀”，国产厂商机遇何在](https://www.36kr.com/p/2547641871441796)
+Filter: [性能直追GPT-4，5000个H100训成，DeepMind联创发全新一代大模型](https://www.36kr.com/p/2547710988162945)
+append_entries: 2
+Finish: 2023-12-06 08:13:30.780024
