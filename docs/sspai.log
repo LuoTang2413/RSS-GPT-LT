@@ -9446,3 +9446,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
 append_entries: 1
 Finish: 2023-12-06 10:10:53.189557
+------------------------------------------------------
+Started: 2023-12-06 12:19:14.509314
+Existing_entries: 305
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
+append_entries: 1
+Finish: 2023-12-06 12:19:18.791259
