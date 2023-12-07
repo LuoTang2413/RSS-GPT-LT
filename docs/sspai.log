@@ -9539,3 +9539,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
 append_entries: 2
 Finish: 2023-12-07 12:18:56.644514
+------------------------------------------------------
+Started: 2023-12-07 14:09:53.713345
+Existing_entries: 310
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-07 14:09:53.922957
