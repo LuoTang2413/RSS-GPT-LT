@@ -9515,3 +9515,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
 append_entries: 1
 Finish: 2023-12-07 06:13:48.642075
+------------------------------------------------------
+Started: 2023-12-07 08:13:20.553939
+Existing_entries: 308
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-07 08:13:20.715624
