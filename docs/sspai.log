@@ -9527,3 +9527,15 @@ Existing_entries: 308
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-07 10:11:02.432966
+------------------------------------------------------
+Started: 2023-12-07 12:18:50.353000
+Existing_entries: 308
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用统计学分析了 5108 个打工人的人生，我发现了赚钱的秘密｜青工所 2](https://sspai.com/post/84836)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
+append_entries: 2
+Finish: 2023-12-07 12:18:56.644514
