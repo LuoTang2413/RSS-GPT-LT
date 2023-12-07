@@ -4722,3 +4722,12 @@ Existing_entries: 128
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-07 14:09:56.310652
+------------------------------------------------------
+Started: 2023-12-07 16:13:25.192658
+Existing_entries: 128
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Advent of Code 2023: Day Seven](https://rknight.me/advent-of-code-2023-day-seven/)
+append_entries: 1
+Finish: 2023-12-07 16:13:30.170203
