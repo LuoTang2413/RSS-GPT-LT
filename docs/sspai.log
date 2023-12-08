@@ -9590,3 +9590,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
 append_entries: 1
 Finish: 2023-12-08 04:12:38.904806
+------------------------------------------------------
+Started: 2023-12-08 06:13:36.930541
+Existing_entries: 311
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
+append_entries: 1
+Finish: 2023-12-08 06:13:40.006877
