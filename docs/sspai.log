@@ -9605,3 +9605,15 @@ Existing_entries: 312
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-08 08:13:14.532585
+------------------------------------------------------
+Started: 2023-12-08 10:10:48.119381
+Existing_entries: 312
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
+append_entries: 2
+Finish: 2023-12-08 10:10:54.404241
