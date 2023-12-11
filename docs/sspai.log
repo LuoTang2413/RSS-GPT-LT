@@ -9818,3 +9818,12 @@ Existing_entries: 319
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-11 00:48:01.534036
+------------------------------------------------------
+Started: 2023-12-11 02:24:54.439341
+Existing_entries: 319
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
+append_entries: 1
+Finish: 2023-12-11 02:24:57.597330
