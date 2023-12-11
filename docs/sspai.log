@@ -9872,3 +9872,12 @@ Existing_entries: 323
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-11 14:10:22.245995
+------------------------------------------------------
+Started: 2023-12-11 16:13:50.275792
+Existing_entries: 323
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/post/84402)
+append_entries: 1
+Finish: 2023-12-11 16:13:53.510615
