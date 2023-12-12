@@ -9905,3 +9905,12 @@ Existing_entries: 324
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-12 00:47:53.104104
+------------------------------------------------------
+Started: 2023-12-12 02:25:13.783976
+Existing_entries: 324
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)
+append_entries: 1
+Finish: 2023-12-12 02:25:16.688084
