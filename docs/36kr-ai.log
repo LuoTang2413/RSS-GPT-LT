@@ -9888,3 +9888,32 @@ Filter: [零一万物最新发声：不涉及套壳、抄袭，权威榜单排�
 Filter: [仿人脑神经开发AI，剑桥大学最新研究登Nature子刊，人造大脑成AI新方向](https://www.36kr.com/p/2556269270571140)
 append_entries: 0
 Finish: 2023-12-12 08:14:16.514447
+------------------------------------------------------
+Started: 2023-12-12 10:11:51.635007
+Existing_entries: 362
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI Q* 疯狂谣言背后：究竟是怎样的项目让人们心生恐惧？](https://www.36kr.com/p/2557539115801992)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [22人估值20亿美元，半年增长七倍，欧洲 OpenAI发布开放权重模型](https://www.36kr.com/p/2557531423546757)
+Append: [NeurIPS 2023大奖出炉，OpenAI联创Ilya获时间检验奖，谷歌170+篇霸榜](https://www.36kr.com/p/2557326881660288)
+Filter: [年度盘点：AI浪潮下，ToB软件落地进展如何？](https://www.36kr.com/p/2557305478258053)
+Filter: [李飞飞谷歌破局之作，用Transformer生成逼真视频，下一个Pika来了？](https://www.36kr.com/p/2557326571396226)
+Filter: [阿里又整活儿：一张人脸一句话就能跳《擦玻璃》，服装背景随意换](https://www.36kr.com/p/2557310074363267)
+Filter: [把大模型当CPU，前阿里云首席安全科学家创业项目曝光](https://www.36kr.com/p/2557308919602307)
+Filter: [80后掘金数据闭环，华映“几面之缘”投了数千万](https://www.36kr.com/p/2557196509601921)
+Filter: [DeepMind的新研究：人类最后的自留地失守了？](https://www.36kr.com/p/2557224880659080)
+Filter: [权力的游戏：互联网铁王座之争](https://www.36kr.com/p/2557256426888067)
+Filter: [泡沫褪去之后：CEO们亲自拥抱大模型](https://www.36kr.com/p/2557169221507713)
+Filter: [基于自研多模态基础模型提供智能设计服务，「HiDream.ai」获新一轮融资](https://www.36kr.com/p/2557199504415361)
+Filter: [AI一把火烧过来，谁会成为下一个诺基亚？](https://www.36kr.com/p/2557072903461505)
+Filter: [AI招聘平台「HelloBoss」获数百万美元Pre-A轮融资，BOSS直聘前首席科学家薛延波加入｜36氪首发](https://www.36kr.com/p/2555998190491780)
+Filter: [机器-类器官混合“生物计算机”诞生，成功用于语音识别，或克服AI硬件瓶颈](https://www.36kr.com/p/2557028852882053)
+Filter: [妙鸭相机推出AI修图，美图秀秀慌了吗？](https://www.36kr.com/p/2557023242672777)
+Filter: [年度盘点⑤：AI的下一波浪潮,一文读懂具身智能](https://www.36kr.com/p/2556220524829059)
+Filter: [1年吸金50亿元，大厂高管纷纷跳槽涌入，深扒要起飞的机器人赛道](https://www.36kr.com/p/2556369805056902)
+Filter: [他们为什么慎谈AI？](https://www.36kr.com/p/2556244614518919)
+append_entries: 3
+Finish: 2023-12-12 10:12:05.089247
