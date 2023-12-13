@@ -9986,3 +9986,12 @@ Existing_entries: 329
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-12 22:09:40.698465
+------------------------------------------------------
+Started: 2023-12-13 00:47:03.695578
+Existing_entries: 329
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：E3 将永久停办、Google 败诉 Epic Games 等](https://sspai.com/post/85034)
+append_entries: 1
+Finish: 2023-12-13 00:47:06.805573
