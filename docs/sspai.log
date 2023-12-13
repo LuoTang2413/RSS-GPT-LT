@@ -10031,3 +10031,12 @@ Existing_entries: 332
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-13 10:11:16.556867
+------------------------------------------------------
+Started: 2023-12-13 12:18:46.685162
+Existing_entries: 332
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [牙刷牙线冲牙器，怎么用才是正确的口腔保健？](https://sspai.com/post/85039)
+append_entries: 1
+Finish: 2023-12-13 12:18:49.655281
