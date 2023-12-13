@@ -10040,3 +10040,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [牙刷牙线冲牙器，怎么用才是正确的口腔保健？](https://sspai.com/post/85039)
 append_entries: 1
 Finish: 2023-12-13 12:18:49.655281
+------------------------------------------------------
+Started: 2023-12-13 14:10:06.296519
+Existing_entries: 333
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-13 14:10:06.448102
