@@ -10025,3 +10025,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [手记 app 上线、操作按钮新功能…… iOS 17.2 值得关注的新特性](https://sspai.com/post/85032)
 append_entries: 1
 Finish: 2023-12-13 08:13:16.286199
+------------------------------------------------------
+Started: 2023-12-13 10:11:16.421469
+Existing_entries: 332
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-13 10:11:16.556867
