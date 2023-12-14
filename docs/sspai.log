@@ -10085,3 +10085,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
 append_entries: 1
 Finish: 2023-12-14 02:23:12.350472
+------------------------------------------------------
+Started: 2023-12-14 04:12:29.503871
+Existing_entries: 334
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-14 04:12:29.715518
