@@ -10202,3 +10202,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [高效追踪学术前沿动态](https://sspai.com/post/84478)
 append_entries: 1
 Finish: 2023-12-15 10:11:11.577918
+------------------------------------------------------
+Started: 2023-12-15 12:18:48.585788
+Existing_entries: 341
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)
+append_entries: 1
+Finish: 2023-12-15 12:18:51.833371
