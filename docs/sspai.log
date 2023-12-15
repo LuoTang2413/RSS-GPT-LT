@@ -10187,3 +10187,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [小米 14 Pro 上手体验](https://sspai.com/post/84510)
 append_entries: 1
 Finish: 2023-12-15 06:13:47.464000
+------------------------------------------------------
+Started: 2023-12-15 08:13:38.952925
+Existing_entries: 340
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-15 08:13:39.112242
