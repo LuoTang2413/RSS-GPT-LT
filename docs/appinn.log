@@ -10295,3 +10295,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-15 04:12:32.465646
+------------------------------------------------------
+Started: 2023-12-15 06:13:38.859723
+Existing_entries: 190
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【开发者自荐】天气-时光，一款查看历史天气的iOS App](https://meta.appinn.net/t/topic/50383)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2023-12-15 06:13:42.553677
