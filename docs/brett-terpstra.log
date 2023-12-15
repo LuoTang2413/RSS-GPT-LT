@@ -12971,3 +12971,16 @@ Filter: [The TextExpander giveaway winners!](https://brett.trpstra.net/link/535/
 Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/textexpander-giveaway)
 append_entries: 0
 Finish: 2023-12-15 18:12:44.237645
+------------------------------------------------------
+Started: 2023-12-15 20:10:42.229443
+Existing_entries: 88
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The SpamSieve giveaway winners!](https://brett.trpstra.net/link/535/16497258/the-spamsieve-giveaway-winners)
+Filter: [Save yourself from unwanted emails with TextExpander [Sponsor]](https://brett.trpstra.net/link/535/16495655/save-yourself-from-unwanted-emails-with-textexpander-sponsor)
+Filter: [Create TextExpander snippets with ChatGPT [Sponsor]](https://brett.trpstra.net/link/535/16438196/create-textexpander-snippets-with-chatgpt-sponsor)
+Filter: [The TextExpander giveaway winners!](https://brett.trpstra.net/link/535/16404215/the-textexpander-giveaway-winners)
+Filter: [TextExpander giveaway!](https://brett.trpstra.net/link/535/16396447/textexpander-giveaway)
+append_entries: 1
+Finish: 2023-12-15 20:10:46.121241
