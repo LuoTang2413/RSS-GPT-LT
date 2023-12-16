@@ -10259,3 +10259,12 @@ Existing_entries: 342
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-16 04:12:07.086398
+------------------------------------------------------
+Started: 2023-12-16 06:12:12.198343
+Existing_entries: 342
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)
+append_entries: 1
+Finish: 2023-12-16 06:12:18.344517
