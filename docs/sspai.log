@@ -10268,3 +10268,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)
 append_entries: 1
 Finish: 2023-12-16 06:12:18.344517
+------------------------------------------------------
+Started: 2023-12-16 08:12:06.686172
+Existing_entries: 343
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-16 08:12:06.860365
