@@ -10355,3 +10355,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [放轻松 | 解码压力的源头，你该如何与它和谐相处？](https://sspai.com/post/85094)
 append_entries: 1
 Finish: 2023-12-17 10:10:07.661041
+------------------------------------------------------
+Started: 2023-12-17 12:16:56.716990
+Existing_entries: 344
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-17 12:16:57.231923
