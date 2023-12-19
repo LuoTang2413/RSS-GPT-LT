@@ -10541,3 +10541,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Android 玩机社区正在走向消亡](https://sspai.com/post/85165)
 append_entries: 1
 Finish: 2023-12-19 14:09:26.613967
+------------------------------------------------------
+Started: 2023-12-19 16:11:50.602591
+Existing_entries: 354
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-19 16:11:50.894342
