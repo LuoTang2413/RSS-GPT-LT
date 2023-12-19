@@ -10514,3 +10514,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)
 append_entries: 2
 Finish: 2023-12-19 08:13:40.363669
+------------------------------------------------------
+Started: 2023-12-19 10:10:57.505348
+Existing_entries: 351
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-19 10:10:57.657518
