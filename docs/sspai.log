@@ -10532,3 +10532,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)
 append_entries: 2
 Finish: 2023-12-19 12:18:22.982908
+------------------------------------------------------
+Started: 2023-12-19 14:09:23.396661
+Existing_entries: 353
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Android 玩机社区正在走向消亡](https://sspai.com/post/85165)
+append_entries: 1
+Finish: 2023-12-19 14:09:26.613967
