@@ -10502,3 +10502,15 @@ Existing_entries: 349
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-19 06:13:16.568973
+------------------------------------------------------
+Started: 2023-12-19 08:13:33.956818
+Existing_entries: 349
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [我的第三台电车，为什么选择蔚来 ES6？](https://sspai.com/post/85055)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)
+append_entries: 2
+Finish: 2023-12-19 08:13:40.363669
