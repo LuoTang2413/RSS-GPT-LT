@@ -10610,3 +10610,12 @@ Existing_entries: 357
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-20 10:08:56.500655
+------------------------------------------------------
+Started: 2023-12-20 12:15:22.677187
+Existing_entries: 357
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
+append_entries: 1
+Finish: 2023-12-20 12:15:25.947193
