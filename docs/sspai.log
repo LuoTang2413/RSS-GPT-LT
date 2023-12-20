@@ -10604,3 +10604,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [为啥Mac启动台图标删不掉？](https://sspai.com/post/85136)
 append_entries: 2
 Finish: 2023-12-20 08:10:59.414315
+------------------------------------------------------
+Started: 2023-12-20 10:08:56.371290
+Existing_entries: 357
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-20 10:08:56.500655
