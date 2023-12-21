@@ -10694,3 +10694,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
 append_entries: 1
 Finish: 2023-12-21 10:10:56.740964
+------------------------------------------------------
+Started: 2023-12-21 12:18:06.170348
+Existing_entries: 361
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/post/85202)
+append_entries: 2
+Finish: 2023-12-21 12:18:12.364094
