@@ -10670,3 +10670,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)
 append_entries: 1
 Finish: 2023-12-21 04:12:14.965974
+------------------------------------------------------
+Started: 2023-12-21 06:13:29.099761
+Existing_entries: 359
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
+append_entries: 1
+Finish: 2023-12-21 06:13:32.402093
