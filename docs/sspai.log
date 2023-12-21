@@ -10706,3 +10706,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/post/85202)
 append_entries: 2
 Finish: 2023-12-21 12:18:12.364094
+------------------------------------------------------
+Started: 2023-12-21 14:09:16.472145
+Existing_entries: 363
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-21 14:09:16.606431
