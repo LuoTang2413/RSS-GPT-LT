@@ -10679,3 +10679,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
 append_entries: 1
 Finish: 2023-12-21 06:13:32.402093
+------------------------------------------------------
+Started: 2023-12-21 08:13:09.815029
+Existing_entries: 360
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-21 08:13:10.256115
