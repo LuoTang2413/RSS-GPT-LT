@@ -10757,3 +10757,12 @@ Existing_entries: 364
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-22 04:12:21.935334
+------------------------------------------------------
+Started: 2023-12-22 06:13:09.159989
+Existing_entries: 364
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程](https://sspai.com/post/84644)
+append_entries: 1
+Finish: 2023-12-22 06:13:12.329907
