@@ -10772,3 +10772,12 @@ Existing_entries: 365
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-22 08:12:51.897938
+------------------------------------------------------
+Started: 2023-12-22 10:10:42.611574
+Existing_entries: 365
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [把图文生成漂亮的分享卡片，哪个软件强？](https://sspai.com/post/85218)
+append_entries: 1
+Finish: 2023-12-22 10:10:45.828166
