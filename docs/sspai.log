@@ -10751,3 +10751,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
 append_entries: 1
 Finish: 2023-12-22 02:21:14.870000
+------------------------------------------------------
+Started: 2023-12-22 04:12:21.822208
+Existing_entries: 364
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-22 04:12:21.935334
