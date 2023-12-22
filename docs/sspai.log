@@ -10781,3 +10781,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [把图文生成漂亮的分享卡片，哪个软件强？](https://sspai.com/post/85218)
 append_entries: 1
 Finish: 2023-12-22 10:10:45.828166
+------------------------------------------------------
+Started: 2023-12-22 12:17:43.054793
+Existing_entries: 366
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [少数派会员年度周边，邀请你一起来创作](https://sspai.com/post/85259)
+append_entries: 2
+Finish: 2023-12-22 12:17:49.494662
