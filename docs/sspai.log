@@ -10766,3 +10766,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [抓住日常频繁且随机的灵感，我是如何构建一套「内恰」的写作流程](https://sspai.com/post/84644)
 append_entries: 1
 Finish: 2023-12-22 06:13:12.329907
+------------------------------------------------------
+Started: 2023-12-22 08:12:51.780490
+Existing_entries: 365
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-22 08:12:51.897938
