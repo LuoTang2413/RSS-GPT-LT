@@ -12893,3 +12893,10 @@ Filter: [Midjourney V6超强升级，细节拉满更懂人话，分辨率提升2
 Filter: [抢光刻机、截客户，三大芯片巨头缠斗2nm丨知料](https://www.36kr.com/p/2568662079612296)
 append_entries: 0
 Finish: 2023-12-23 00:43:46.896597
+------------------------------------------------------
+Started: 2023-12-23 02:18:09.211451
+Existing_entries: 394
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/36kr-ai
