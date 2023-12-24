@@ -6046,3 +6046,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2023-12-24 10:09:52.381435
+------------------------------------------------------
+Started: 2023-12-24 12:16:54.090631
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2023-12-24 12:16:54.398707
