@@ -5266,3 +5266,12 @@ Existing_entries: 23
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2023-12-25 12:17:57.068086
+------------------------------------------------------
+Started: 2023-12-25 14:09:05.042982
+Existing_entries: 23
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Job Safety in the AI Era](http://lopespm.github.io/notes/2023/12/25/job_safety_in_ai_era.html)
+append_entries: 1
+Finish: 2023-12-25 14:09:08.471676
