@@ -5275,3 +5275,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Job Safety in the AI Era](http://lopespm.github.io/notes/2023/12/25/job_safety_in_ai_era.html)
 append_entries: 1
 Finish: 2023-12-25 14:09:08.471676
+------------------------------------------------------
+Started: 2023-12-25 16:12:09.550419
+Existing_entries: 24
+Fetching from https://lopespm.com/atom.xml
+append_entries: 0
+Finish: 2023-12-25 16:12:09.845764
