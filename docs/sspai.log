@@ -10967,3 +10967,12 @@ Existing_entries: 370
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-25 00:47:01.190886
+------------------------------------------------------
+Started: 2023-12-25 02:23:13.405494
+Existing_entries: 370
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报](https://sspai.com/post/85316)
+append_entries: 1
+Finish: 2023-12-25 02:23:18.010823
