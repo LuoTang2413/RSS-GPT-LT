@@ -11006,3 +11006,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)
 append_entries: 1
 Finish: 2023-12-25 10:11:02.016196
+------------------------------------------------------
+Started: 2023-12-25 12:17:53.336164
+Existing_entries: 373
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-25 12:17:53.531501
