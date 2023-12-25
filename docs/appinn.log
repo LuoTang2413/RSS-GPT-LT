@@ -11263,3 +11263,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2023-12-25 06:13:44.967156
+------------------------------------------------------
+Started: 2023-12-25 08:12:57.930554
+Existing_entries: 206
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [12-18~12-24.老胡的周刊（第121期）](https://meta.appinn.net/t/topic/50751)
+append_entries: 1
+Finish: 2023-12-25 08:13:02.462065

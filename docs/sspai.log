@@ -10988,3 +10988,12 @@ Existing_entries: 371
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-25 06:13:47.234344
+------------------------------------------------------
+Started: 2023-12-25 08:13:04.553966
+Existing_entries: 371
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
+append_entries: 1
+Finish: 2023-12-25 08:13:07.611350
