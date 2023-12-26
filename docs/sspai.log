@@ -11078,3 +11078,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
 append_entries: 1
 Finish: 2023-12-26 08:12:55.425258
+------------------------------------------------------
+Started: 2023-12-26 10:10:40.666271
+Existing_entries: 377
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
+append_entries: 2
+Finish: 2023-12-26 10:10:47.374441
