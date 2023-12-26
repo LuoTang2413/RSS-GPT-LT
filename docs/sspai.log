@@ -11105,3 +11105,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/post/85368)
 append_entries: 1
 Finish: 2023-12-26 14:08:53.054945
+------------------------------------------------------
+Started: 2023-12-26 16:12:02.743173
+Existing_entries: 380
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-26 16:12:03.637986
