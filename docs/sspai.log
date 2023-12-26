@@ -11096,3 +11096,12 @@ Existing_entries: 379
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-26 12:17:20.253616
+------------------------------------------------------
+Started: 2023-12-26 14:08:49.961282
+Existing_entries: 379
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/post/85368)
+append_entries: 1
+Finish: 2023-12-26 14:08:53.054945
