@@ -11159,3 +11159,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
 append_entries: 1
 Finish: 2023-12-27 06:13:27.249837
+------------------------------------------------------
+Started: 2023-12-27 08:12:46.327221
+Existing_entries: 382
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-27 08:12:46.512315
