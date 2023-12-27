@@ -11150,3 +11150,12 @@ Existing_entries: 381
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-27 04:12:11.750245
+------------------------------------------------------
+Started: 2023-12-27 06:13:24.044289
+Existing_entries: 381
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
+append_entries: 1
+Finish: 2023-12-27 06:13:27.249837
