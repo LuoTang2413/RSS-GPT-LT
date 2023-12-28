@@ -11228,3 +11228,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
 append_entries: 1
 Finish: 2023-12-28 02:20:20.873670
+------------------------------------------------------
+Started: 2023-12-28 04:12:42.548406
+Existing_entries: 385
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [使用15个月后，再来看看 Arc](https://sspai.com/post/84931)
+append_entries: 1
+Finish: 2023-12-28 04:12:45.752552
