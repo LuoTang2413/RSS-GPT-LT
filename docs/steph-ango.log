@@ -6361,3 +6361,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2023-12-28 06:13:17.708148
+------------------------------------------------------
+Started: 2023-12-28 08:13:01.207098
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2023-12-28 08:13:01.449822
