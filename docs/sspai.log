@@ -11351,3 +11351,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
 append_entries: 1
 Finish: 2023-12-29 12:15:55.552146
+------------------------------------------------------
+Started: 2023-12-29 14:09:11.766035
+Existing_entries: 392
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-29 14:09:11.916829
