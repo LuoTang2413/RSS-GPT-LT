@@ -6414,3 +6414,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [The Web is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 append_entries: 1
 Finish: 2023-12-29 00:37:30.555340
+------------------------------------------------------
+Started: 2023-12-29 02:16:30.443806
+Existing_entries: 274
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2023-12-29 02:16:32.822524
