@@ -11507,3 +11507,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
 append_entries: 1
 Finish: 2023-12-31 12:17:12.232049
+------------------------------------------------------
+Started: 2023-12-31 14:08:30.799748
+Existing_entries: 396
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2023-12-31 14:08:30.997577
