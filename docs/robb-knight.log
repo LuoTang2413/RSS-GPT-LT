@@ -6556,3 +6556,13 @@ Existing_entries: 276
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2023-12-30 22:09:09.002118
+------------------------------------------------------
+Started: 2023-12-31 00:50:39.124364
+Existing_entries: 276
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Roast Potato Recipe](https://rknight.me/blog/roast-potato-recipe/)
+Append: [Letters with Kev Quirk](https://rknight.me/blog/letters-with-kev-quirk/)
+append_entries: 2
+Finish: 2023-12-31 00:50:44.007380
