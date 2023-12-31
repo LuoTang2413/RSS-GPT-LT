@@ -6566,3 +6566,9 @@ Append: [Roast Potato Recipe](https://rknight.me/blog/roast-potato-recipe/)
 Append: [Letters with Kev Quirk](https://rknight.me/blog/letters-with-kev-quirk/)
 append_entries: 2
 Finish: 2023-12-31 00:50:44.007380
+------------------------------------------------------
+Started: 2023-12-31 02:24:23.296288
+Existing_entries: 278
+Fetching from https://rknight.me/feed.xml
+append_entries: 0
+Finish: 2023-12-31 02:24:25.061131
