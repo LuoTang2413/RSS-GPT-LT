@@ -11498,3 +11498,12 @@ Existing_entries: 395
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-31 10:09:54.094790
+------------------------------------------------------
+Started: 2023-12-31 12:17:08.996997
+Existing_entries: 395
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
+append_entries: 1
+Finish: 2023-12-31 12:17:12.232049
