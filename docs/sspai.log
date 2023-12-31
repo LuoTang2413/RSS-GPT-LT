@@ -11483,3 +11483,12 @@ Existing_entries: 394
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2023-12-31 06:12:05.088746
+------------------------------------------------------
+Started: 2023-12-31 08:12:06.174921
+Existing_entries: 394
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
+append_entries: 1
+Finish: 2023-12-31 08:12:09.558075
