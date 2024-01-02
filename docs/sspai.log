@@ -11666,3 +11666,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)
 append_entries: 2
 Finish: 2024-01-02 12:18:02.568527
+------------------------------------------------------
+Started: 2024-01-02 14:09:30.722117
+Existing_entries: 401
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-02 14:09:30.962633
