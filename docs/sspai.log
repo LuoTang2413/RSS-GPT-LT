@@ -11837,3 +11837,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
 append_entries: 1
 Finish: 2024-01-04 12:17:54.601702
+------------------------------------------------------
+Started: 2024-01-04 14:09:22.077447
+Existing_entries: 410
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-04 14:09:22.245426
