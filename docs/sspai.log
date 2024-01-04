@@ -11828,3 +11828,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [生病以后，我如何「放轻松」](https://sspai.com/post/85421)
 append_entries: 1
 Finish: 2024-01-04 10:10:59.170387
+------------------------------------------------------
+Started: 2024-01-04 12:17:51.350209
+Existing_entries: 409
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
+append_entries: 1
+Finish: 2024-01-04 12:17:54.601702
