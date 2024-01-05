@@ -12314,3 +12314,11 @@ Append: [桑基图大师 - 解锁 iOS 和 macOS 上桑基图的强大潜能 ｜ 
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-01-05 04:12:30.578218
+------------------------------------------------------
+Started: 2024-01-05 06:13:15.458979
+Existing_entries: 217
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-01-05 06:13:19.705039
