@@ -11912,3 +11912,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
 append_entries: 1
 Finish: 2024-01-05 10:10:57.821414
+------------------------------------------------------
+Started: 2024-01-05 12:18:21.770728
+Existing_entries: 413
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的一大斛作品](https://sspai.com/post/85594)
+append_entries: 1
+Finish: 2024-01-05 12:18:24.957764
