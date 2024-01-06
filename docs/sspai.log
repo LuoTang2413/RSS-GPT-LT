@@ -11996,3 +11996,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [放轻松 | It‘s okay to be sad，这是焦虑和放松带给我的思考](https://sspai.com/post/85499)
 append_entries: 1
 Finish: 2024-01-06 12:16:47.404611
+------------------------------------------------------
+Started: 2024-01-06 14:09:10.434967
+Existing_entries: 415
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-06 14:09:10.575121
