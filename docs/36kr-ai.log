@@ -16757,3 +16757,10 @@ Filter: [大模型竞速2024：服务、应用、MaaS](https://www.36kr.com/p/25
 Filter: [2023年冲出23家新晋AIGC独角兽：最高估值千亿，6家来自中国](https://www.36kr.com/p/2590260961934216)
 append_entries: 0
 Finish: 2024-01-06 10:11:40.896284
+------------------------------------------------------
+Started: 2024-01-06 12:16:55.427166
+Existing_entries: 422
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/36kr-ai
