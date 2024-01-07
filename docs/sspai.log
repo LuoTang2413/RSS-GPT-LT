@@ -12026,3 +12026,12 @@ Existing_entries: 415
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-07 00:51:58.575380
+------------------------------------------------------
+Started: 2024-01-07 02:27:20.866893
+Existing_entries: 415
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [有奖 | 我们做了一款人见人爱的移动电源，现在还想用它来帮你「表白」](https://sspai.com/post/85545)
+append_entries: 1
+Finish: 2024-01-07 02:27:24.371319
