@@ -12119,3 +12119,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)
 append_entries: 1
 Finish: 2024-01-08 04:13:09.901216
+------------------------------------------------------
+Started: 2024-01-08 06:14:05.174857
+Existing_entries: 418
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
+append_entries: 1
+Finish: 2024-01-08 06:14:08.558462
