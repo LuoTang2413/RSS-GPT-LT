@@ -12227,3 +12227,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [放轻松 | 治愈「被互联网影响的心智」](https://sspai.com/post/85420)
 append_entries: 1
 Finish: 2024-01-09 10:11:16.031379
+------------------------------------------------------
+Started: 2024-01-09 12:18:47.240492
+Existing_entries: 424
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)
+append_entries: 1
+Finish: 2024-01-09 12:18:50.774139
