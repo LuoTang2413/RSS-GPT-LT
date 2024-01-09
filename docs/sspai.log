@@ -12188,3 +12188,12 @@ Existing_entries: 421
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-09 00:47:47.636436
+------------------------------------------------------
+Started: 2024-01-09 02:25:42.537939
+Existing_entries: 421
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等](https://sspai.com/post/85670)
+append_entries: 1
+Finish: 2024-01-09 02:25:45.617845
