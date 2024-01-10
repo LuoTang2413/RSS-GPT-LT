@@ -12299,3 +12299,15 @@ Existing_entries: 426
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-10 08:13:30.218018
+------------------------------------------------------
+Started: 2024-01-10 10:10:59.685261
+Existing_entries: 426
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
+append_entries: 2
+Finish: 2024-01-10 10:11:05.733448
