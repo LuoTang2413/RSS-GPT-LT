@@ -12278,3 +12278,12 @@ Existing_entries: 425
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-10 02:24:48.807163
+------------------------------------------------------
+Started: 2024-01-10 04:12:40.586343
+Existing_entries: 425
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)
+append_entries: 1
+Finish: 2024-01-10 04:12:44.048193
