@@ -17714,3 +17714,28 @@ Filter: [大模型无限流式输入推理飙升46%，国产开源加速「全�
 Filter: [谷歌DeepMind最新研究：对抗性攻击对人类也有效，人类和AI都会把花瓶认成猫](https://www.36kr.com/p/2595770382432904)
 append_entries: 0
 Finish: 2024-01-09 22:09:48.353029
+------------------------------------------------------
+Started: 2024-01-10 00:48:22.839490
+Existing_entries: 428
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [专注电商及营销场景，AIGC智能设计平台「Nolibox」获数千万元A轮融资 | 36氪首发](https://www.36kr.com/p/2596250121419401)
+Filter: [900亿AI巨头官宣分拆上市](https://www.36kr.com/p/2597965205666435)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI开撕纽约时报：故意引导ChatGPT得出抄袭结论](https://www.36kr.com/p/2597941436414600)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI开年王炸，GPT商店本周上线，谁的AI第一桶金？](https://www.36kr.com/p/2597547812052867)
+Filter: [AI大模型，让手机真正开始“智能”](https://www.36kr.com/p/2597301970484105)
+Filter: [手机厂商狂卷大模型，机构称AI手机3年内将占比40%](https://www.36kr.com/p/2597287359740804)
+Filter: [GPT-5前瞻，艾伦人工智能研究所发布最强多模态模型，预测GPT-5新能力](https://www.36kr.com/p/2597209300056709)
+Filter: [「钱景无限」的Agent，究竟是谁的机会？](https://www.36kr.com/p/2597140138991747)
+Filter: [生成式AI：手机厂商高端梦最后的希望](https://www.36kr.com/p/2597040269720448)
+Filter: [生成式AI这一年：从群雄乱战到生态确立，世界已被改变](https://www.36kr.com/p/2597034729808007)
+Filter: [NVIDIA狂飙AI ，市值暴涨，PC性能提升60倍，40系SUPER显卡发布，4899元碾压上代旗舰](https://www.36kr.com/p/2596929921890945)
+Filter: [连续5年营收下滑，三六零能否凭借大模型重回千亿市值？](https://www.36kr.com/p/2596817880932488)
+Filter: [在Web3里「养」AI男友，链游《HIM》能攻略女玩家吗？](https://www.36kr.com/p/2596768071613315)
+Filter: [张一鸣被骂“魔王”，AI 与人类如何“价值对齐”引关注](https://www.36kr.com/p/2595905783528324)
+Filter: [小模型当打之年？2024年AI预言“一网打尽”](https://www.36kr.com/p/2595865211035524)
+append_entries: 2
+Finish: 2024-01-10 00:48:29.623514
