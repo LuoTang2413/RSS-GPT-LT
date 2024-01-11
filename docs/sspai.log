@@ -12395,3 +12395,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
 append_entries: 1
 Finish: 2024-01-11 10:11:15.124981
+------------------------------------------------------
+Started: 2024-01-11 12:18:42.409715
+Existing_entries: 432
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-11 12:18:42.964974
