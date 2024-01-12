@@ -12446,3 +12446,12 @@ Existing_entries: 433
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-12 02:26:16.978869
+------------------------------------------------------
+Started: 2024-01-12 04:13:03.647850
+Existing_entries: 433
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)
+append_entries: 1
+Finish: 2024-01-12 04:13:07.044118
