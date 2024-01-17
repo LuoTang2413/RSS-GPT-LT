@@ -8027,3 +8027,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-01-17 04:13:07.949436
+------------------------------------------------------
+Started: 2024-01-17 06:13:59.240003
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-01-17 06:13:59.655837
