@@ -13223,3 +13223,12 @@ Existing_entries: 446
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-22 08:14:26.858290
+------------------------------------------------------
+Started: 2024-01-22 10:11:51.050972
+Existing_entries: 446
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [功能追踪 03：年度重磅产品上线，Notion Calendar 终于来了，它怎么用，好用吗？](https://sspai.com/post/85941)
+append_entries: 1
+Finish: 2024-01-22 10:11:54.379450
