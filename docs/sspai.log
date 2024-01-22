@@ -13244,3 +13244,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [树莓派 DIY 墨水屏相框完全指南](https://sspai.com/post/85239)
 append_entries: 2
 Finish: 2024-01-22 12:20:06.068425
+------------------------------------------------------
+Started: 2024-01-22 14:10:37.345881
+Existing_entries: 449
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-22 14:10:37.502566
