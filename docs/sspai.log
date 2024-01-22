@@ -13232,3 +13232,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [功能追踪 03：年度重磅产品上线，Notion Calendar 终于来了，它怎么用，好用吗？](https://sspai.com/post/85941)
 append_entries: 1
 Finish: 2024-01-22 10:11:54.379450
+------------------------------------------------------
+Started: 2024-01-22 12:19:59.614084
+Existing_entries: 447
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/85988)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [树莓派 DIY 墨水屏相框完全指南](https://sspai.com/post/85239)
+append_entries: 2
+Finish: 2024-01-22 12:20:06.068425
