@@ -13286,3 +13286,12 @@ Existing_entries: 449
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-23 02:27:06.969251
+------------------------------------------------------
+Started: 2024-01-23 04:12:57.614643
+Existing_entries: 449
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版](https://sspai.com/post/85997)
+append_entries: 1
+Finish: 2024-01-23 04:13:00.723325
