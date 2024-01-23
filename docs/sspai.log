@@ -13310,3 +13310,12 @@ Existing_entries: 451
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-23 08:13:46.212102
+------------------------------------------------------
+Started: 2024-01-23 10:11:13.199299
+Existing_entries: 451
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [放轻松 | 手段多样，结局一样：it will be alright](https://sspai.com/post/85763)
+append_entries: 1
+Finish: 2024-01-23 10:11:16.435098
