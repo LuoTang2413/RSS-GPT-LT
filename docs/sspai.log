@@ -13325,3 +13325,12 @@ Existing_entries: 452
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-23 12:19:10.540722
+------------------------------------------------------
+Started: 2024-01-23 14:10:02.644344
+Existing_entries: 452
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)
+append_entries: 1
+Finish: 2024-01-23 14:10:06.162447
