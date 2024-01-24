@@ -13400,3 +13400,15 @@ Existing_entries: 455
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-24 10:11:15.743622
+------------------------------------------------------
+Started: 2024-01-24 12:19:34.334108
+Existing_entries: 455
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Macintosh：40 年之前的故事](https://sspai.com/post/73310)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
+append_entries: 2
+Finish: 2024-01-24 12:19:40.416891
