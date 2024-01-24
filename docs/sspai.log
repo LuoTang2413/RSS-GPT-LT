@@ -13385,3 +13385,12 @@ Existing_entries: 454
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-24 06:14:15.844005
+------------------------------------------------------
+Started: 2024-01-24 08:13:44.812613
+Existing_entries: 454
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [看完 Sam Altman 的斯坦福创业课，我学到了什么？](https://sspai.com/post/84988)
+append_entries: 1
+Finish: 2024-01-24 08:13:48.288962
