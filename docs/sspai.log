@@ -13472,3 +13472,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [学点复式记账，让个人理财更有逻辑](https://sspai.com/post/85033)
 append_entries: 1
 Finish: 2024-01-25 06:13:52.745036
+------------------------------------------------------
+Started: 2024-01-25 08:13:39.115057
+Existing_entries: 459
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-25 08:13:39.338596
