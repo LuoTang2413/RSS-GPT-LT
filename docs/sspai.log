@@ -13448,3 +13448,12 @@ Existing_entries: 457
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-25 00:49:37.139578
+------------------------------------------------------
+Started: 2024-01-25 02:27:37.131209
+Existing_entries: 457
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等](https://sspai.com/post/86068)
+append_entries: 1
+Finish: 2024-01-25 02:27:40.116343
