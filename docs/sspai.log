@@ -13490,3 +13490,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享](https://sspai.com/post/85912)
 append_entries: 2
 Finish: 2024-01-25 10:11:16.366191
+------------------------------------------------------
+Started: 2024-01-25 12:19:02.400601
+Existing_entries: 461
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-25 12:19:02.618569
