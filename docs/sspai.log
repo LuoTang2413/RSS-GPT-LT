@@ -13541,3 +13541,12 @@ Existing_entries: 462
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-26 02:18:26.725159
+------------------------------------------------------
+Started: 2024-01-26 04:12:30.140644
+Existing_entries: 462
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
+append_entries: 1
+Finish: 2024-01-26 04:12:33.163664
