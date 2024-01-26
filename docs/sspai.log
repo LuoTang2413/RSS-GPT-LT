@@ -13550,3 +13550,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
 append_entries: 1
 Finish: 2024-01-26 04:12:33.163664
+------------------------------------------------------
+Started: 2024-01-26 06:12:39.679365
+Existing_entries: 463
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)
+append_entries: 1
+Finish: 2024-01-26 06:12:42.859973
