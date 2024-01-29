@@ -13793,3 +13793,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
 append_entries: 1
 Finish: 2024-01-29 06:12:57.084807
+------------------------------------------------------
+Started: 2024-01-29 08:12:27.783283
+Existing_entries: 470
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-01-29 08:12:27.980789
