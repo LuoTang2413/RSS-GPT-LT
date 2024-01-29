@@ -13808,3 +13808,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [纸与数字碰撞：找到你最适合的记笔记方法](https://sspai.com/post/85800)
 append_entries: 1
 Finish: 2024-01-29 10:10:37.695329
+------------------------------------------------------
+Started: 2024-01-29 12:17:40.128371
+Existing_entries: 471
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新机械键盘结构漫谈（上）](https://sspai.com/post/85767)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/86166)
+append_entries: 2
+Finish: 2024-01-29 12:17:46.723808
