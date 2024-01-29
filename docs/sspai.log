@@ -13775,3 +13775,12 @@ Existing_entries: 468
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-29 02:16:11.415954
+------------------------------------------------------
+Started: 2024-01-29 04:11:33.748522
+Existing_entries: 468
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
+append_entries: 1
+Finish: 2024-01-29 04:11:37.102035
