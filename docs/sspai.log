@@ -13784,3 +13784,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
 append_entries: 1
 Finish: 2024-01-29 04:11:37.102035
+------------------------------------------------------
+Started: 2024-01-29 06:12:53.588951
+Existing_entries: 469
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
+append_entries: 1
+Finish: 2024-01-29 06:12:57.084807
