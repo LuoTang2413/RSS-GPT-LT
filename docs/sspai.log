@@ -13895,3 +13895,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了](https://sspai.com/post/85975)
 append_entries: 1
 Finish: 2024-01-30 10:11:15.621489
+------------------------------------------------------
+Started: 2024-01-30 12:16:46.225682
+Existing_entries: 476
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 030 | 年度作者、能量小食和新玩意](https://sspai.com/post/86185)
+append_entries: 1
+Finish: 2024-01-30 12:16:49.266419
