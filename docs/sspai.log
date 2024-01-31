@@ -13934,3 +13934,12 @@ Existing_entries: 477
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-01-30 22:09:04.009518
+------------------------------------------------------
+Started: 2024-01-31 00:43:52.259346
+Existing_entries: 477
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：大模型新闻三则、首例 Neuralink 人体植入进展顺利](https://sspai.com/post/86197)
+append_entries: 1
+Finish: 2024-01-31 00:43:55.397579
