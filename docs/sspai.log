@@ -14057,3 +14057,15 @@ Existing_entries: 484
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-01 08:12:28.165070
+------------------------------------------------------
+Started: 2024-02-01 10:10:49.331018
+Existing_entries: 484
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [我为什么退坑原神——从二游说起的游戏观察](https://sspai.com/post/85830)
+append_entries: 2
+Finish: 2024-02-01 10:10:55.681275
