@@ -14069,3 +14069,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [我为什么退坑原神——从二游说起的游戏观察](https://sspai.com/post/85830)
 append_entries: 2
 Finish: 2024-02-01 10:10:55.681275
+------------------------------------------------------
+Started: 2024-02-01 12:17:17.517998
+Existing_entries: 486
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
+append_entries: 1
+Finish: 2024-02-01 12:17:20.691335
