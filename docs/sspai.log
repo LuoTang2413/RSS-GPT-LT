@@ -14039,3 +14039,15 @@ Existing_entries: 482
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-01 04:13:30.415930
+------------------------------------------------------
+Started: 2024-02-01 06:13:13.981555
+Existing_entries: 482
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
+append_entries: 2
+Finish: 2024-02-01 06:13:19.868606
