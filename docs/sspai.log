@@ -14210,3 +14210,12 @@ Existing_entries: 491
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-03 04:11:09.977326
+------------------------------------------------------
+Started: 2024-02-03 06:11:42.752053
+Existing_entries: 491
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
+append_entries: 1
+Finish: 2024-02-03 06:11:46.040218
