@@ -14369,3 +14369,15 @@ Existing_entries: 494
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-05 06:13:18.820789
+------------------------------------------------------
+Started: 2024-02-05 08:12:55.982053
+Existing_entries: 494
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
+append_entries: 2
+Finish: 2024-02-05 08:13:02.340113
