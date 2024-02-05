@@ -14399,3 +14399,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
 append_entries: 2
 Finish: 2024-02-05 12:17:32.520923
+------------------------------------------------------
+Started: 2024-02-05 14:09:18.606230
+Existing_entries: 498
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-02-05 14:09:18.804075
