@@ -14486,3 +14486,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [新机械键盘结构漫谈（下）](https://sspai.com/post/86172)
 append_entries: 1
 Finish: 2024-02-06 12:17:21.996368
+------------------------------------------------------
+Started: 2024-02-06 14:09:57.447390
+Existing_entries: 503
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-02-06 14:09:57.845445
