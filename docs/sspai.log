@@ -14459,3 +14459,12 @@ Existing_entries: 500
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-06 06:13:21.734193
+------------------------------------------------------
+Started: 2024-02-06 08:12:55.714871
+Existing_entries: 500
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
+append_entries: 1
+Finish: 2024-02-06 08:12:59.082219
