@@ -14468,3 +14468,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
 append_entries: 1
 Finish: 2024-02-06 08:12:59.082219
+------------------------------------------------------
+Started: 2024-02-06 10:10:45.125657
+Existing_entries: 501
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
+append_entries: 1
+Finish: 2024-02-06 10:10:48.616152
