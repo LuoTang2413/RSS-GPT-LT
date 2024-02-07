@@ -14546,3 +14546,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
 append_entries: 1
 Finish: 2024-02-07 06:12:41.659443
+------------------------------------------------------
+Started: 2024-02-07 08:11:57.140353
+Existing_entries: 505
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)
+append_entries: 2
+Finish: 2024-02-07 08:12:03.761469
