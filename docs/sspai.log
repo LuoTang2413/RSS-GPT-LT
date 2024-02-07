@@ -14522,3 +14522,12 @@ Existing_entries: 503
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-07 00:42:10.774820
+------------------------------------------------------
+Started: 2024-02-07 02:15:04.839273
+Existing_entries: 503
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等](https://sspai.com/post/86366)
+append_entries: 1
+Finish: 2024-02-07 02:15:08.131210
