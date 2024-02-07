@@ -14564,3 +14564,12 @@ Existing_entries: 507
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-07 10:10:54.029346
+------------------------------------------------------
+Started: 2024-02-07 12:16:48.747795
+Existing_entries: 507
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议](https://sspai.com/post/84545)
+append_entries: 1
+Finish: 2024-02-07 12:16:52.078242
