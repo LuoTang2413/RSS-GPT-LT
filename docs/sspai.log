@@ -14636,3 +14636,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
 append_entries: 2
 Finish: 2024-02-08 06:13:29.526993
+------------------------------------------------------
+Started: 2024-02-08 08:12:31.208617
+Existing_entries: 511
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [龙跃智能，有龙则灵：新的一年骁龙如何用 AI 开启「芯」篇章](https://sspai.com/post/86395)
+append_entries: 1
+Finish: 2024-02-08 08:12:34.388829
