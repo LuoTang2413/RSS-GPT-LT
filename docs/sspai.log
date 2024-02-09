@@ -14714,3 +14714,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：微软电脑管家登陆全球 Microsoft Store、迪士尼消息两则等](https://sspai.com/post/86407)
 append_entries: 1
 Finish: 2024-02-09 04:12:11.533617
+------------------------------------------------------
+Started: 2024-02-09 06:12:44.789601
+Existing_entries: 515
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [从独立小品到 3A 大作：春节游戏玩点啥](https://sspai.com/post/86388)
+append_entries: 1
+Finish: 2024-02-09 06:12:48.290886
