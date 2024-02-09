@@ -14729,3 +14729,12 @@ Existing_entries: 516
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-09 08:12:04.300376
+------------------------------------------------------
+Started: 2024-02-09 10:10:23.048714
+Existing_entries: 516
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)
+append_entries: 1
+Finish: 2024-02-09 10:10:26.143260
