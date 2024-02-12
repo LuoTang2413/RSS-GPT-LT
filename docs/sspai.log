@@ -14948,3 +14948,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)
 append_entries: 1
 Finish: 2024-02-12 06:13:05.294462
+------------------------------------------------------
+Started: 2024-02-12 08:13:06.324347
+Existing_entries: 519
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [过年聚会玩些什么？我们准备了 8 款游戏让春节更欢乐](https://sspai.com/post/86430)
+append_entries: 1
+Finish: 2024-02-12 08:13:09.728777
