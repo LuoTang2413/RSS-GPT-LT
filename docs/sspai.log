@@ -15038,3 +15038,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)
 append_entries: 2
 Finish: 2024-02-13 08:13:32.858726
+------------------------------------------------------
+Started: 2024-02-13 10:10:14.912195
+Existing_entries: 523
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-02-13 10:10:15.119307
