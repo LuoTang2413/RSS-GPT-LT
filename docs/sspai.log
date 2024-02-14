@@ -15092,3 +15092,12 @@ Existing_entries: 523
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-14 02:16:20.753657
+------------------------------------------------------
+Started: 2024-02-14 04:12:14.943902
+Existing_entries: 523
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
+append_entries: 1
+Finish: 2024-02-14 04:12:18.272196
