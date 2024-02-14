@@ -15113,3 +15113,12 @@ Existing_entries: 524
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-14 08:13:11.820702
+------------------------------------------------------
+Started: 2024-02-14 10:10:33.973555
+Existing_entries: 524
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [城市漫步指南 | 非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)
+append_entries: 1
+Finish: 2024-02-14 10:10:36.939079
