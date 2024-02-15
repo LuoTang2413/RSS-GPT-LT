@@ -16337,3 +16337,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-02-15 14:08:52.868177
+------------------------------------------------------
+Started: 2024-02-15 16:11:45.074744
+Existing_entries: 272
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 扩展商店的套娃操作](https://meta.appinn.net/t/topic/52678)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-02-15 16:11:48.204911
