@@ -15413,3 +15413,12 @@ Existing_entries: 530
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-18 06:12:27.488268
+------------------------------------------------------
+Started: 2024-02-18 08:12:13.137221
+Existing_entries: 530
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
+append_entries: 1
+Finish: 2024-02-18 08:12:16.317001
