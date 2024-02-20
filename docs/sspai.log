@@ -15578,3 +15578,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)
 append_entries: 1
 Finish: 2024-02-20 06:13:26.917034
+------------------------------------------------------
+Started: 2024-02-20 08:12:24.561360
+Existing_entries: 537
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-02-20 08:12:24.843911
