@@ -15596,3 +15596,12 @@ Existing_entries: 537
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-20 12:17:12.297856
+------------------------------------------------------
+Started: 2024-02-20 14:09:28.694160
+Existing_entries: 537
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 032 | 写小说利器、被盗版以及春节照片后的故事](https://sspai.com/post/86538)
+append_entries: 1
+Finish: 2024-02-20 14:09:31.892542
