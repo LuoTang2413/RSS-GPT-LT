@@ -15569,3 +15569,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等](https://sspai.com/post/86522)
 append_entries: 1
 Finish: 2024-02-20 04:13:41.526344
+------------------------------------------------------
+Started: 2024-02-20 06:13:23.413683
+Existing_entries: 536
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)
+append_entries: 1
+Finish: 2024-02-20 06:13:26.917034
