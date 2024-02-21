@@ -15650,3 +15650,12 @@ Existing_entries: 539
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-21 04:11:53.133136
+------------------------------------------------------
+Started: 2024-02-21 06:12:52.082069
+Existing_entries: 539
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)
+append_entries: 1
+Finish: 2024-02-21 06:12:55.190768

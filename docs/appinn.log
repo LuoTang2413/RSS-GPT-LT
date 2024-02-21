@@ -16879,3 +16879,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-02-21 04:11:49.794335
+------------------------------------------------------
+Started: 2024-02-21 06:12:45.532945
+Existing_entries: 278
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [SwitchyOmega将无法在chrome上继续使用，讨论下替代品](https://meta.appinn.net/t/topic/52872)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-02-21 06:12:48.889706
