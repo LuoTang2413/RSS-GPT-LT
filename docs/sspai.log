@@ -15743,3 +15743,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [「#」号的补充历史：比想象的要复杂得多](https://sspai.com/post/86471)
 append_entries: 1
 Finish: 2024-02-22 06:13:17.752681
+------------------------------------------------------
+Started: 2024-02-22 08:13:05.428565
+Existing_entries: 544
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)
+append_entries: 1
+Finish: 2024-02-22 08:13:08.552673
