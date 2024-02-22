@@ -17034,3 +17034,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-02-22 18:12:21.603682
+------------------------------------------------------
+Started: 2024-02-22 20:10:05.185897
+Existing_entries: 281
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Youtube布局乱套了，想恢复原状](https://meta.appinn.net/t/topic/52959)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-02-22 20:10:09.541187
