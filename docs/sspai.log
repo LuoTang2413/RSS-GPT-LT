@@ -15809,3 +15809,15 @@ Existing_entries: 546
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-23 02:15:41.878941
+------------------------------------------------------
+Started: 2024-02-23 04:11:16.653113
+Existing_entries: 546
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
+append_entries: 2
+Finish: 2024-02-23 04:11:22.448843
