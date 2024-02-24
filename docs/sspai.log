@@ -15896,3 +15896,12 @@ Existing_entries: 551
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-24 02:13:14.250487
+------------------------------------------------------
+Started: 2024-02-24 04:11:54.939895
+Existing_entries: 551
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [为什么我无法专注：了解 ADHD](https://sspai.com/post/86560)
+append_entries: 1
+Finish: 2024-02-24 04:11:58.697141
