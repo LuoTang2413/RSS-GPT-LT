@@ -16055,3 +16055,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668)
 append_entries: 1
 Finish: 2024-02-26 04:11:55.917995
+------------------------------------------------------
+Started: 2024-02-26 06:13:39.017523
+Existing_entries: 554
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)
+append_entries: 1
+Finish: 2024-02-26 06:13:42.246664
