@@ -16124,3 +16124,12 @@ Existing_entries: 557
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-27 00:42:43.969649
+------------------------------------------------------
+Started: 2024-02-27 02:14:42.209177
+Existing_entries: 557
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693)
+append_entries: 1
+Finish: 2024-02-27 02:14:45.361450
