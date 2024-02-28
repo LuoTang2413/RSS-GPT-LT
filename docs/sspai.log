@@ -16223,3 +16223,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732)
 append_entries: 1
 Finish: 2024-02-28 04:12:29.870406
+------------------------------------------------------
+Started: 2024-02-28 06:12:52.661040
+Existing_entries: 562
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [过去这一年，我有哪些离不开的效率工具？](https://sspai.com/post/85490)
+append_entries: 1
+Finish: 2024-02-28 06:12:55.912208
