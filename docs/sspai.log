@@ -16298,3 +16298,12 @@ Existing_entries: 565
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-29 02:14:33.308201
+------------------------------------------------------
+Started: 2024-02-29 04:11:57.265409
+Existing_entries: 565
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
+append_entries: 1
+Finish: 2024-02-29 04:12:00.568282
