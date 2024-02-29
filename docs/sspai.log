@@ -16307,3 +16307,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
 append_entries: 1
 Finish: 2024-02-29 04:12:00.568282
+------------------------------------------------------
+Started: 2024-02-29 06:13:24.548940
+Existing_entries: 566
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [如果我语言学习只能做一件事…及其他碎碎念](https://sspai.com/post/85611)
+append_entries: 1
+Finish: 2024-02-29 06:13:27.992594
