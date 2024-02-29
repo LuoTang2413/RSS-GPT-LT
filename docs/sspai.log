@@ -16322,3 +16322,12 @@ Existing_entries: 567
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-29 08:12:12.436042
+------------------------------------------------------
+Started: 2024-02-29 10:11:32.858761
+Existing_entries: 567
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680)
+append_entries: 1
+Finish: 2024-02-29 10:11:35.997189
