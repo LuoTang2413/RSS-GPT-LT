@@ -16385,3 +16385,15 @@ Existing_entries: 570
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-01 02:20:37.982117
+------------------------------------------------------
+Started: 2024-03-01 04:13:09.927830
+Existing_entries: 570
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [以「工作」为分类标准，探讨「知识管理」的新思路。](https://sspai.com/post/85567)
+append_entries: 2
+Finish: 2024-03-01 04:13:15.969223
