@@ -16397,3 +16397,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [以「工作」为分类标准，探讨「知识管理」的新思路。](https://sspai.com/post/85567)
 append_entries: 2
 Finish: 2024-03-01 04:13:15.969223
+------------------------------------------------------
+Started: 2024-03-01 06:13:20.351571
+Existing_entries: 572
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-03-01 06:13:20.797692
