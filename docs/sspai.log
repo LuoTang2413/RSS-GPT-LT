@@ -16475,3 +16475,12 @@ Existing_entries: 574
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-02 04:11:37.313735
+------------------------------------------------------
+Started: 2024-03-02 06:13:38.528402
+Existing_entries: 574
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636)
+append_entries: 1
+Finish: 2024-03-02 06:13:41.779976
