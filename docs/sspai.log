@@ -16619,3 +16619,12 @@ Existing_entries: 576
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-04 02:56:52.167499
+------------------------------------------------------
+Started: 2024-03-04 04:39:48.043118
+Existing_entries: 576
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)
+append_entries: 1
+Finish: 2024-03-04 04:39:51.248809
