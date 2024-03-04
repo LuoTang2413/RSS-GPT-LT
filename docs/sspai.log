@@ -16646,3 +16646,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822)
 append_entries: 1
 Finish: 2024-03-04 09:40:21.517791
+------------------------------------------------------
+Started: 2024-03-04 11:21:17.790045
+Existing_entries: 579
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/86890)
+append_entries: 1
+Finish: 2024-03-04 11:21:20.958608
