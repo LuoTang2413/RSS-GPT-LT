@@ -16746,3 +16746,12 @@ Append: [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://
 Append: [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664)
 append_entries: 3
 Finish: 2024-03-05 12:17:40.278584
+------------------------------------------------------
+Started: 2024-03-05 14:09:52.613205
+Existing_entries: 585
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [填满 Android 全面屏，怎么就这么难？](https://sspai.com/post/86931)
+append_entries: 1
+Finish: 2024-03-05 14:09:55.987217
