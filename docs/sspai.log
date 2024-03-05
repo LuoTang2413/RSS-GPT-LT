@@ -16703,3 +16703,12 @@ Existing_entries: 580
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-05 02:15:16.871738
+------------------------------------------------------
+Started: 2024-03-05 04:12:25.074980
+Existing_entries: 580
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902)
+append_entries: 1
+Finish: 2024-03-05 04:12:28.305013
