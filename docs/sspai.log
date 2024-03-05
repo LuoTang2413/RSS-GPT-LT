@@ -16727,3 +16727,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [高效重复+双链笔记，这个 APP 可能是背单词的终极解决方案](https://sspai.com/post/85470)
 append_entries: 1
 Finish: 2024-03-05 08:13:14.795544
+------------------------------------------------------
+Started: 2024-03-05 10:11:14.192401
+Existing_entries: 582
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-03-05 10:11:14.430879
