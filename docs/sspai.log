@@ -16785,3 +16785,12 @@ Existing_entries: 586
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-06 00:43:42.668424
+------------------------------------------------------
+Started: 2024-03-06 02:15:31.993242
+Existing_entries: 586
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945)
+append_entries: 1
+Finish: 2024-03-06 02:15:35.078437
