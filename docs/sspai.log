@@ -16824,3 +16824,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
 append_entries: 1
 Finish: 2024-03-06 10:10:42.517290
+------------------------------------------------------
+Started: 2024-03-06 12:18:30.281209
+Existing_entries: 589
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
+append_entries: 1
+Finish: 2024-03-06 12:18:33.913923
