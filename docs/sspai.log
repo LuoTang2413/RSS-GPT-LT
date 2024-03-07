@@ -16884,3 +16884,12 @@ Existing_entries: 591
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-07 04:11:24.082301
+------------------------------------------------------
+Started: 2024-03-07 06:13:28.910133
+Existing_entries: 591
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [2024，我用这些软件搭建记录体系](https://sspai.com/post/85785)
+append_entries: 1
+Finish: 2024-03-07 06:13:32.316297
