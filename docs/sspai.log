@@ -16911,3 +16911,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [年度征文 | 当了年2全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)
 append_entries: 2
 Finish: 2024-03-07 10:09:51.326226
+------------------------------------------------------
+Started: 2024-03-07 12:17:26.612382
+Existing_entries: 594
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/post/86929)
+append_entries: 1
+Finish: 2024-03-07 12:17:29.599306
