@@ -17196,3 +17196,12 @@ Existing_entries: 601
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-11 02:17:38.139119
+------------------------------------------------------
+Started: 2024-03-11 04:13:17.098446
+Existing_entries: 601
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)
+append_entries: 1
+Finish: 2024-03-11 04:13:20.323621
