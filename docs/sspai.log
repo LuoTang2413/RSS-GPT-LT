@@ -17238,3 +17238,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/87100)
 append_entries: 1
 Finish: 2024-03-11 12:17:47.382912
+------------------------------------------------------
+Started: 2024-03-11 14:09:28.539861
+Existing_entries: 605
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
+append_entries: 1
+Finish: 2024-03-11 14:09:32.131044
