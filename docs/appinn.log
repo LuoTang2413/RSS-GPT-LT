@@ -18766,3 +18766,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-11 14:09:25.013021
+------------------------------------------------------
+Started: 2024-03-11 16:11:59.446997
+Existing_entries: 301
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [求一个本地文件的导航器，类似speed dial](https://meta.appinn.net/t/topic/53761)
+append_entries: 1
+Finish: 2024-03-11 16:12:02.571546
