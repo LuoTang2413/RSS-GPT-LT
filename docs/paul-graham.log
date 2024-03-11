@@ -9025,3 +9025,12 @@ Existing_entries: 30
 Fetching from https://rsshub.app/paulgraham/articles
 append_entries: 0
 Finish: 2024-03-10 22:10:35.946579
+------------------------------------------------------
+Started: 2024-03-11 00:44:47.506191
+Existing_entries: 30
+Fetching from https://rsshub.app/paulgraham/articles
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Best Essay](http://paulgraham.com/best.html)
+append_entries: 1
+Finish: 2024-03-11 00:44:50.960179
