@@ -17277,3 +17277,12 @@ Existing_entries: 606
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-12 00:43:13.103255
+------------------------------------------------------
+Started: 2024-03-12 02:15:08.838601
+Existing_entries: 606
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
+append_entries: 1
+Finish: 2024-03-12 02:15:12.260549
