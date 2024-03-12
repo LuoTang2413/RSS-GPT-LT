@@ -17313,3 +17313,17 @@ Existing_entries: 608
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-12 10:10:26.345142
+------------------------------------------------------
+Started: 2024-03-12 12:17:10.458083
+Existing_entries: 608
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [2024 年，翻盖机还有什么可玩？](https://sspai.com/post/87098)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
+Append: [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
+Append: [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
+append_entries: 4
+Finish: 2024-03-12 12:17:16.579366
