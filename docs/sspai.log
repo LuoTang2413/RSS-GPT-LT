@@ -17327,3 +17327,12 @@ Append: [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com
 Append: [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
 append_entries: 4
 Finish: 2024-03-12 12:17:16.579366
+------------------------------------------------------
+Started: 2024-03-12 14:09:08.983810
+Existing_entries: 612
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
+append_entries: 1
+Finish: 2024-03-12 14:09:12.260862
