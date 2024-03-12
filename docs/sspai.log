@@ -17292,3 +17292,12 @@ Existing_entries: 607
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-12 04:14:10.122595
+------------------------------------------------------
+Started: 2024-03-12 06:12:57.540395
+Existing_entries: 607
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
+append_entries: 1
+Finish: 2024-03-12 06:13:00.680585
