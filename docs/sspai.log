@@ -17372,3 +17372,15 @@ Existing_entries: 613
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-13 02:18:07.092072
+------------------------------------------------------
+Started: 2024-03-13 06:13:25.464555
+Existing_entries: 613
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
+append_entries: 2
+Finish: 2024-03-13 06:13:31.522759
