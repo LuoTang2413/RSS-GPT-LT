@@ -17456,3 +17456,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)
 append_entries: 1
 Finish: 2024-03-14 02:15:40.498574
+------------------------------------------------------
+Started: 2024-03-14 04:11:51.995821
+Existing_entries: 619
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
+append_entries: 1
+Finish: 2024-03-14 04:11:55.355405
