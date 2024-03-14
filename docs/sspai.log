@@ -17477,3 +17477,12 @@ Existing_entries: 620
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-14 08:12:36.512179
+------------------------------------------------------
+Started: 2024-03-14 10:10:41.612242
+Existing_entries: 620
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
+append_entries: 1
+Finish: 2024-03-14 10:10:44.584559
