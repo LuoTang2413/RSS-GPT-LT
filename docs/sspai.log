@@ -17486,3 +17486,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
 append_entries: 1
 Finish: 2024-03-14 10:10:44.584559
+------------------------------------------------------
+Started: 2024-03-14 12:18:30.173994
+Existing_entries: 621
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
+append_entries: 2
+Finish: 2024-03-14 12:18:36.746047
