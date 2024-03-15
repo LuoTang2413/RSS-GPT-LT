@@ -17549,3 +17549,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
 append_entries: 1
 Finish: 2024-03-15 04:12:48.091277
+------------------------------------------------------
+Started: 2024-03-15 06:13:01.531425
+Existing_entries: 624
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
+append_entries: 1
+Finish: 2024-03-15 06:13:04.813014
