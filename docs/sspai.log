@@ -17540,3 +17540,12 @@ Existing_entries: 623
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-15 02:16:41.706655
+------------------------------------------------------
+Started: 2024-03-15 04:12:44.960338
+Existing_entries: 623
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
+append_entries: 1
+Finish: 2024-03-15 04:12:48.091277
