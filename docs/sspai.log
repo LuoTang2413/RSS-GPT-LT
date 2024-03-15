@@ -17573,3 +17573,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
 append_entries: 1
 Finish: 2024-03-15 10:09:57.544047
+------------------------------------------------------
+Started: 2024-03-15 12:17:06.157840
+Existing_entries: 626
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
+append_entries: 2
+Finish: 2024-03-15 12:17:12.517147
