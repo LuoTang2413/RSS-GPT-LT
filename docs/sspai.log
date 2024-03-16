@@ -17636,3 +17636,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882)
 append_entries: 1
 Finish: 2024-03-16 04:11:20.527979
+------------------------------------------------------
+Started: 2024-03-16 06:11:58.379354
+Existing_entries: 629
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214)
+append_entries: 1
+Finish: 2024-03-16 06:12:01.458132
