@@ -17987,3 +17987,12 @@ Existing_entries: 642
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-20 08:12:28.501441
+------------------------------------------------------
+Started: 2024-03-20 10:10:25.543069
+Existing_entries: 642
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
+append_entries: 1
+Finish: 2024-03-20 10:10:28.764923
