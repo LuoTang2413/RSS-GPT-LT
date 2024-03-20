@@ -17996,3 +17996,16 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
 append_entries: 1
 Finish: 2024-03-20 10:10:28.764923
+------------------------------------------------------
+Started: 2024-03-20 12:17:30.605535
+Existing_entries: 643
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [浅谈 AI 工具的性价比评估思路](https://sspai.com/post/87412)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
+Append: [水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
+append_entries: 3
+Finish: 2024-03-20 12:17:36.954702
