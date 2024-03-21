@@ -18060,3 +18060,12 @@ Existing_entries: 647
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-21 04:12:37.264206
+------------------------------------------------------
+Started: 2024-03-21 06:12:58.217271
+Existing_entries: 647
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
+append_entries: 1
+Finish: 2024-03-21 06:13:01.264115
