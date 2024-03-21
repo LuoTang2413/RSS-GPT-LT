@@ -18084,3 +18084,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [从动机错位入手：快消内容戒除方法谈](https://sspai.com/post/86260)
 append_entries: 1
 Finish: 2024-03-21 10:10:27.266986
+------------------------------------------------------
+Started: 2024-03-21 12:17:12.197699
+Existing_entries: 649
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)
+append_entries: 1
+Finish: 2024-03-21 12:17:15.496460
