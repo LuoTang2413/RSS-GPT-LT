@@ -18450,3 +18450,12 @@ Existing_entries: 661
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-26 00:44:00.287880
+------------------------------------------------------
+Started: 2024-03-26 02:16:03.109995
+Existing_entries: 661
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
+append_entries: 1
+Finish: 2024-03-26 02:16:06.568550
