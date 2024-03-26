@@ -18480,3 +18480,12 @@ Existing_entries: 663
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-26 08:12:50.946994
+------------------------------------------------------
+Started: 2024-03-26 10:11:36.730335
+Existing_entries: 663
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
+append_entries: 1
+Finish: 2024-03-26 10:11:40.290643
