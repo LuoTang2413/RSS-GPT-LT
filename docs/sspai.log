@@ -18583,3 +18583,12 @@ Existing_entries: 670
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-27 12:18:44.618188
+------------------------------------------------------
+Started: 2024-03-27 14:10:07.247515
+Existing_entries: 670
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
+append_entries: 1
+Finish: 2024-03-27 14:10:10.655365
