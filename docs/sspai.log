@@ -18562,3 +18562,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
 append_entries: 1
 Finish: 2024-03-27 06:13:04.487688
+------------------------------------------------------
+Started: 2024-03-27 08:13:51.899396
+Existing_entries: 669
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-03-27 08:13:52.070411
