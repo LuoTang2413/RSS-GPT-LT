@@ -18568,3 +18568,12 @@ Existing_entries: 669
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-27 08:13:52.070411
+------------------------------------------------------
+Started: 2024-03-27 10:10:56.754543
+Existing_entries: 669
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
+append_entries: 1
+Finish: 2024-03-27 10:10:59.621296
