@@ -18664,3 +18664,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
 append_entries: 2
 Finish: 2024-03-28 10:10:52.879042
+------------------------------------------------------
+Started: 2024-03-28 12:18:56.748417
+Existing_entries: 675
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-03-28 12:18:57.122067
