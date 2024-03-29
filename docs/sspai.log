@@ -18721,3 +18721,12 @@ Existing_entries: 676
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-29 04:12:48.250208
+------------------------------------------------------
+Started: 2024-03-29 06:12:56.282457
+Existing_entries: 676
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)
+append_entries: 1
+Finish: 2024-03-29 06:12:59.842281
