@@ -18991,3 +18991,12 @@ Existing_entries: 686
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-01 12:19:05.928881
+------------------------------------------------------
+Started: 2024-04-01 14:09:51.252824
+Existing_entries: 686
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/87733)
+append_entries: 1
+Finish: 2024-04-01 14:09:54.800494
