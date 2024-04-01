@@ -12326,3 +12326,12 @@ Existing_entries: 28
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-04-01 14:09:58.972952
+------------------------------------------------------
+Started: 2024-04-01 16:13:10.469620
+Existing_entries: 28
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Banishing mobile phones from bedroom](http://lopespm.github.io/notes/2024/04/01/banishing_mobile_phones_from_bedroom.html)
+append_entries: 1
+Finish: 2024-04-01 16:13:13.650170
