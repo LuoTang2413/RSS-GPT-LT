@@ -19153,3 +19153,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [清谈半窗月，澹坐一杯茶：我的饮茶入坑杂记](https://sspai.com/post/87788)
 append_entries: 1
 Finish: 2024-04-03 10:11:24.939364
+------------------------------------------------------
+Started: 2024-04-03 12:17:49.438578
+Existing_entries: 694
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/post/87741)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [当 AI 拥有 200 万字的记忆：体验 Kimi 智能助手长上下文支持](https://sspai.com/post/87797)
+append_entries: 2
+Finish: 2024-04-03 12:17:56.062485
