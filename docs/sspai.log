@@ -19213,3 +19213,12 @@ Existing_entries: 696
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-04 04:13:10.252107
+------------------------------------------------------
+Started: 2024-04-04 06:12:59.080883
+Existing_entries: 696
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
+append_entries: 1
+Finish: 2024-04-04 06:13:02.487939
