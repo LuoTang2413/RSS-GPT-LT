@@ -22324,3 +22324,12 @@ Existing_entries: 154
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-04-05 16:12:49.120297
+------------------------------------------------------
+Started: 2024-04-05 18:12:37.861181
+Existing_entries: 154
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The The Archive giveaway winners!](https://brett.trpstra.net/link/535/16642690/the-the-archive-giveaway-winners)
+append_entries: 1
+Finish: 2024-04-05 18:12:42.181709
