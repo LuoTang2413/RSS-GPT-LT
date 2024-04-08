@@ -19513,3 +19513,12 @@ Existing_entries: 702
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-08 02:20:12.750191
+------------------------------------------------------
+Started: 2024-04-08 04:13:04.322859
+Existing_entries: 702
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
+append_entries: 1
+Finish: 2024-04-08 04:13:07.299808
