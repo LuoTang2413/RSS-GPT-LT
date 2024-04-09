@@ -19624,3 +19624,12 @@ Existing_entries: 709
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-09 08:12:58.202400
+------------------------------------------------------
+Started: 2024-04-09 10:13:28.941683
+Existing_entries: 709
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
+append_entries: 1
+Finish: 2024-04-09 10:13:31.946682
