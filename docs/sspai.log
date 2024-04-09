@@ -19633,3 +19633,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
 append_entries: 1
 Finish: 2024-04-09 10:13:31.946682
+------------------------------------------------------
+Started: 2024-04-09 12:18:19.145393
+Existing_entries: 710
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-09 12:18:19.333536
