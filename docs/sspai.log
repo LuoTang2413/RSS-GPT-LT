@@ -19714,3 +19714,12 @@ Existing_entries: 713
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-10 10:10:29.109221
+------------------------------------------------------
+Started: 2024-04-10 12:18:24.603211
+Existing_entries: 713
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
+append_entries: 1
+Finish: 2024-04-10 12:18:28.122840
