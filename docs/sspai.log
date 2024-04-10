@@ -19678,3 +19678,12 @@ Existing_entries: 711
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-10 00:44:28.228617
+------------------------------------------------------
+Started: 2024-04-10 02:18:27.688813
+Existing_entries: 711
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)
+append_entries: 1
+Finish: 2024-04-10 02:18:30.855856
