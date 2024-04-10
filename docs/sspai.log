@@ -19708,3 +19708,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [当设计代替性价比：从设计的角度解读 Nothing Phone (2a)](https://sspai.com/post/87883)
 append_entries: 1
 Finish: 2024-04-10 08:15:24.836619
+------------------------------------------------------
+Started: 2024-04-10 10:10:28.922070
+Existing_entries: 713
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-10 10:10:29.109221
