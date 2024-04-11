@@ -43052,3 +43052,30 @@ Filter: [谷歌最强大模型免费开放了，长音频理解功能独一份�
 Filter: [开源模型首胜GPT-4，竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://www.36kr.com/p/2727312949060870)
 append_entries: 0
 Finish: 2024-04-11 10:11:37.226036
+------------------------------------------------------
+Started: 2024-04-11 12:18:16.805076
+Existing_entries: 637
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [英伟达、谷歌和微软为何在生物技术的人工智能未来押注数十亿美元](https://www.36kr.com/p/2728861602211075)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI CEO奥特曼开始中东之行，打造全球AI联盟迈出第一步？](https://www.36kr.com/p/2728868660077569)
+Filter: [快手刘凌志成立新公司：快手持股近20%，或为独立孵化芯片业务](https://www.36kr.com/p/2728842951238657)
+Filter: [IPO一周年，“深圳AI第一股”褪色](https://www.36kr.com/p/2728754936550021)
+Filter: [AI大战上演：巨头激战、初创逆袭，谁将引领未来AI新潮流？](https://www.36kr.com/p/2728722782594054)
+Filter: [金三银四，你的面试官可能是个AI](https://www.36kr.com/p/2728722206417921)
+Filter: [史上首次，AI超越人类奥赛金牌得主，吴方法加持，30题做出27道破纪录](https://www.36kr.com/p/2728717264708612)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [OpenAI 重磅发布的GPT-4 Turbo with Vision，是编码的倒退](https://www.36kr.com/p/2728716979446784)
+Filter: [面壁智能完成新一轮数亿元融资，春华创投、华为哈勃领投｜36氪首发](https://www.36kr.com/p/2728647825646857)
+Filter: [“AI+医疗”概念热度不减，体检龙头美年健康坐上AI加速器](https://www.36kr.com/p/2727368172725253)
+Filter: [AI界的奇迹之夜：一天内4家巨头迭代大模型，苹果首下场](https://www.36kr.com/p/2728509869134470)
+Filter: [AI算力生态裂变，“开放联盟”挑战英伟达](https://www.36kr.com/p/2728474470016263)
+Filter: [七种宿命下的大模型创业](https://www.36kr.com/p/2728469935989766)
+Filter: [​重磅，DeepMind推出具身智能“足球运动员”，过人、射门、防守样样精通，真实机器人可直接部署](https://www.36kr.com/p/2728314794419202)
+Filter: [宁德时代低调布局的AI研发，是风口还是噱头？| 焦点分析](https://www.36kr.com/p/2725719670170629)
+Filter: [10 款教育 AI 工具用例](https://www.36kr.com/p/2727610140746755)
+Filter: [在音乐APP上，花10元就能成为“周杰伦”](https://www.36kr.com/p/2727397082850304)
+append_entries: 2
+Finish: 2024-04-11 12:18:22.882897

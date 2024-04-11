@@ -19798,3 +19798,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
 append_entries: 1
 Finish: 2024-04-11 10:11:24.489017
+------------------------------------------------------
+Started: 2024-04-11 12:17:49.971970
+Existing_entries: 717
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
+append_entries: 1
+Finish: 2024-04-11 12:17:52.991438
