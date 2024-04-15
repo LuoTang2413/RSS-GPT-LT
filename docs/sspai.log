@@ -20053,3 +20053,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)
 append_entries: 1
 Finish: 2024-04-15 03:11:17.936587
+------------------------------------------------------
+Started: 2024-04-15 04:26:28.162458
+Existing_entries: 726
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity](https://sspai.com/post/87950)
+append_entries: 1
+Finish: 2024-04-15 04:26:31.537656
