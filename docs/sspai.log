@@ -20137,3 +20137,12 @@ Existing_entries: 730
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-16 04:12:26.643420
+------------------------------------------------------
+Started: 2024-04-16 06:13:14.742404
+Existing_entries: 730
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
+append_entries: 1
+Finish: 2024-04-16 06:13:18.130546
