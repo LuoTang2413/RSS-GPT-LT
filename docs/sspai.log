@@ -20248,3 +20248,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)
 append_entries: 1
 Finish: 2024-04-17 10:11:15.221974
+------------------------------------------------------
+Started: 2024-04-17 12:18:10.388159
+Existing_entries: 737
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [重回记忆中起风的草原：一人一部最喜欢的吉卜力电影](https://sspai.com/post/88085)
+append_entries: 1
+Finish: 2024-04-17 12:18:13.947622
