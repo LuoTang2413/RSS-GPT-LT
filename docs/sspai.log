@@ -20350,3 +20350,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 append_entries: 1
 Finish: 2024-04-18 14:09:53.365067
+------------------------------------------------------
+Started: 2024-04-18 16:12:14.722880
+Existing_entries: 743
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-18 16:12:15.220341
