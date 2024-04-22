@@ -20626,3 +20626,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
 append_entries: 1
 Finish: 2024-04-22 04:12:46.179495
+------------------------------------------------------
+Started: 2024-04-22 06:14:16.686241
+Existing_entries: 749
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [手机号绑定了哪些服务？试试借助短信进行排查](https://sspai.com/post/88076)
+append_entries: 1
+Finish: 2024-04-22 06:14:19.876145
