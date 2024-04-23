@@ -20713,3 +20713,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
 append_entries: 1
 Finish: 2024-04-23 04:12:04.840203
+------------------------------------------------------
+Started: 2024-04-23 06:13:45.719652
+Existing_entries: 754
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-23 06:13:45.996397
