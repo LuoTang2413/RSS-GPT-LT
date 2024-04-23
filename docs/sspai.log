@@ -20743,3 +20743,12 @@ Existing_entries: 756
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 12:19:25.708860
+------------------------------------------------------
+Started: 2024-04-23 14:10:06.214363
+Existing_entries: 756
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 041 | 派友速食大曝光、老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
+append_entries: 1
+Finish: 2024-04-23 14:10:09.688164
