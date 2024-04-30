@@ -21281,3 +21281,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
 append_entries: 1
 Finish: 2024-04-30 04:13:24.792106
+------------------------------------------------------
+Started: 2024-04-30 06:13:41.219275
+Existing_entries: 776
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
+append_entries: 1
+Finish: 2024-04-30 06:13:44.773387
