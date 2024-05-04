@@ -21620,3 +21620,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
 append_entries: 2
 Finish: 2024-05-04 06:13:41.075241
+------------------------------------------------------
+Started: 2024-05-04 08:12:03.316764
+Existing_entries: 791
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
+append_entries: 1
+Finish: 2024-05-04 08:12:06.728408
