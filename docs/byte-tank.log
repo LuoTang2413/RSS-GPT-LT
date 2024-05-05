@@ -14762,3 +14762,9 @@ Append: [Learnings as a Software Engineer Techlead](https://lopespm.com/2022/03/
 Append: [Hacker News Daily](https://lopespm.com/2020/12/25/hackernews-daily.html)
 append_entries: 20
 Finish: 2024-05-05 14:09:46.015192
+------------------------------------------------------
+Started: 2024-05-05 16:12:39.750970
+Existing_entries: 50
+Fetching from https://lopespm.com/atom.xml
+append_entries: 0
+Finish: 2024-05-05 16:12:40.012867
