@@ -21808,3 +21808,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [派评 | 近期值得关注的 app](https://sspai.com/post/88579)
 append_entries: 1
 Finish: 2024-05-06 12:19:01.079647
+------------------------------------------------------
+Started: 2024-05-06 14:10:56.348613
+Existing_entries: 801
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-05-06 14:10:56.656938
