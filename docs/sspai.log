@@ -21886,3 +21886,10 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
 append_entries: 1
 Finish: 2024-05-07 10:11:58.325100
+------------------------------------------------------
+Started: 2024-05-07 12:18:38.117104
+Existing_entries: 805
+Fetching from https://rsshub.app/sspai/index
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/sspai
