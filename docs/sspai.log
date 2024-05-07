@@ -21877,3 +21877,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 append_entries: 1
 Finish: 2024-05-07 08:13:21.659136
+------------------------------------------------------
+Started: 2024-05-07 10:11:55.202455
+Existing_entries: 804
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
+append_entries: 1
+Finish: 2024-05-07 10:11:58.325100
