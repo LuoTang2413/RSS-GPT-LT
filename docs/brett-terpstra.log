@@ -25966,3 +25966,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Man, I should have started Conductor with filters](https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters)
 append_entries: 1
 Finish: 2024-05-25 18:12:44.699210
+------------------------------------------------------
+Started: 2024-05-25 20:10:24.397937
+Existing_entries: 180
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-05-25 20:10:25.560918
