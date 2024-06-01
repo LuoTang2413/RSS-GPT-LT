@@ -26647,3 +26647,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-01 06:14:06.425161
+------------------------------------------------------
+Started: 2024-06-01 08:13:05.361270
+Existing_entries: 414
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [MaxFocus: 链接预览  支持火狐、Chromium](https://meta.appinn.net/t/topic/57188)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-01 08:13:09.336282
