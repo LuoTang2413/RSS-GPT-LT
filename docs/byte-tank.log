@@ -17282,3 +17282,12 @@ Existing_entries: 50
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-06-09 18:13:19.116161
+------------------------------------------------------
+Started: 2024-06-09 20:11:59.572715
+Existing_entries: 50
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Aloof](https://lopespm.com/notes/2024/06/09/aloof.html)
+append_entries: 1
+Finish: 2024-06-09 20:12:02.611551
