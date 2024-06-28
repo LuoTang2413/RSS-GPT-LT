@@ -28402,3 +28402,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Obsidian Callouts in Marked](https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked)
 append_entries: 1
 Finish: 2024-06-28 02:30:01.582186
+------------------------------------------------------
+Started: 2024-06-28 04:12:58.587037
+Existing_entries: 196
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-06-28 04:12:59.344468
