@@ -28393,3 +28393,12 @@ Existing_entries: 195
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-06-28 00:51:03.421417
+------------------------------------------------------
+Started: 2024-06-28 02:29:57.623686
+Existing_entries: 195
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Obsidian Callouts in Marked](https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked)
+append_entries: 1
+Finish: 2024-06-28 02:30:01.582186
