@@ -29908,3 +29908,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-04 22:11:03.239466
+------------------------------------------------------
+Started: 2024-07-05 00:51:04.971673
+Existing_entries: 451
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Feed error: 523
+Fetching from https://meta.appinn.net/tag/ios.rss
+Feed error: 523
+Fetching from https://meta.appinn.net/tag/macos.rss
+Feed error: 523
+append_entries: 0
+error when rendering xml, skip docs/appinn
