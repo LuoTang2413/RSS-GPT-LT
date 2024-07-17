@@ -31125,3 +31125,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-17 06:15:50.993610
+------------------------------------------------------
+Started: 2024-07-17 08:14:55.467587
+Existing_entries: 481
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [SlaxNote 简单智能的录音转文字软件[iPhone]](https://meta.appinn.net/t/topic/58846)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-17 08:14:58.459084
