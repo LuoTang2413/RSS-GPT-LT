@@ -30696,3 +30696,12 @@ Existing_entries: 206
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-07-29 12:21:26.335562
+------------------------------------------------------
+Started: 2024-07-29 14:10:57.462696
+Existing_entries: 206
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [PopClip giveaway!](https://brett.trpstra.net/link/535/16755959/popclip-giveaway)
+append_entries: 1
+Finish: 2024-07-29 14:11:01.619593
