@@ -31005,3 +31005,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Binbundle: A gem for saving and restoring gem binaries](https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries)
 append_entries: 1
 Finish: 2024-08-02 18:15:20.919356
+------------------------------------------------------
+Started: 2024-08-02 20:12:16.610661
+Existing_entries: 209
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The PopClip giveaway winners!](https://brett.trpstra.net/link/535/16760501/the-popclip-giveaway-winners)
+append_entries: 1
+Finish: 2024-08-02 20:12:20.385675
