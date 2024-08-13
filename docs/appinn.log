@@ -33730,3 +33730,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-13 04:13:48.514860
+------------------------------------------------------
+Started: 2024-08-13 06:16:53.370516
+Existing_entries: 510
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [[旧闻] Zotero 7.0 正式发布：支持 EPUB&HTML 批注功能](https://meta.appinn.net/t/topic/59857)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-13 06:16:56.383450
