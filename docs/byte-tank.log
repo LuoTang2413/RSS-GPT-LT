@@ -26363,3 +26363,12 @@ Existing_entries: 57
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-10-13 16:14:09.671287
+------------------------------------------------------
+Started: 2024-10-13 18:15:36.414285
+Existing_entries: 57
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Lessons from Roman History](https://lopespm.com/notes/2024/10/13/lessons_roman_history.html)
+append_entries: 1
+Finish: 2024-10-13 18:15:39.794916
