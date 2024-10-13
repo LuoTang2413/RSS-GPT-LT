@@ -30651,3 +30651,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-10-13 10:12:10.242442
+------------------------------------------------------
+Started: 2024-10-13 12:21:40.176998
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-10-13 12:21:40.587553
