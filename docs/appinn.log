@@ -40170,3 +40170,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-18 02:47:14.703684
+------------------------------------------------------
+Started: 2024-10-18 04:16:05.537358
+Existing_entries: 579
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [请问mac有能分隔4个栏的文件管理器吗？](https://meta.appinn.net/t/topic/62111)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-18 04:16:08.296654
