@@ -37193,3 +37193,12 @@ Existing_entries: 257
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-25 22:11:38.041814
+------------------------------------------------------
+Started: 2024-10-26 00:58:14.561741
+Existing_entries: 257
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [The Typora giveaway winners!](https://brett.trpstra.net/link/535/16865701/the-typora-giveaway-winners)
+append_entries: 1
+Finish: 2024-10-26 00:58:19.363225
