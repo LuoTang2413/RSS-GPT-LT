@@ -37625,3 +37625,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Archive linkding bookmarks to local Markdown](https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown)
 append_entries: 1
 Finish: 2024-10-31 18:17:11.013236
+------------------------------------------------------
+Started: 2024-10-31 20:12:57.552628
+Existing_entries: 261
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-10-31 20:12:58.351889
