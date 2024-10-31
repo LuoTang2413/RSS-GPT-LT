@@ -37616,3 +37616,12 @@ Existing_entries: 260
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-10-31 16:15:42.230730
+------------------------------------------------------
+Started: 2024-10-31 18:17:06.948404
+Existing_entries: 260
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Archive linkding bookmarks to local Markdown](https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown)
+append_entries: 1
+Finish: 2024-10-31 18:17:11.013236
