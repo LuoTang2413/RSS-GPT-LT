@@ -38951,3 +38951,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [A card-based layout for linkding](https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding)
 append_entries: 1
 Finish: 2024-11-18 18:17:48.045563
+------------------------------------------------------
+Started: 2024-11-18 20:14:20.787662
+Existing_entries: 271
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-11-18 20:14:21.767041
