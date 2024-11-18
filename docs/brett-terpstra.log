@@ -38942,3 +38942,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` d
 Append: [Tally giveaway!](https://brett.trpstra.net/link/535/16889777/tally-giveaway)
 append_entries: 1
 Finish: 2024-11-18 16:16:43.070733
+------------------------------------------------------
+Started: 2024-11-18 18:17:43.384122
+Existing_entries: 270
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [A card-based layout for linkding](https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding)
+append_entries: 1
+Finish: 2024-11-18 18:17:48.045563
