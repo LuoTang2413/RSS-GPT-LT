@@ -39811,3 +39811,12 @@ Existing_entries: 317
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-11-29 20:14:04.971856
+------------------------------------------------------
+Started: 2024-11-29 22:12:23.526810
+Existing_entries: 317
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Alfred 5 giveaway winner!](https://brett.trpstra.net/link/535/16905601/the-alfred-5-giveaway-winner)
+append_entries: 1
+Finish: 2024-11-29 22:12:24.381679
