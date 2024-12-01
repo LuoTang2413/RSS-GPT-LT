@@ -44443,3 +44443,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-01 03:11:19.186457
+------------------------------------------------------
+Started: 2024-12-01 04:18:38.811284
+Existing_entries: 628
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [记账软件](https://meta.appinn.net/t/topic/63681)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-01 04:18:41.575458
