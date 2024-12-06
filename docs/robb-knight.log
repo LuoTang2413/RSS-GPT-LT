@@ -35092,3 +35092,10 @@ Fetching from https://rknight.me/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-12-05 20:15:26.720741
+------------------------------------------------------
+Started: 2024-12-06 08:17:58.887233
+Existing_entries: 279
+Fetching from https://rknight.me/feed.xml
+Feed error: <unknown>:40:88: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/robb-knight
