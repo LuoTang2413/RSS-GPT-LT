@@ -41029,3 +41029,12 @@ Existing_entries: 327
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-16 18:18:51.541041
+------------------------------------------------------
+Started: 2024-12-16 20:14:52.825428
+Existing_entries: 327
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shell Tricks: Check what's listening on a port](https://brett.trpstra.net/link/535/16922449/shell-tricks-check-whats-listening-on-a-port)
+append_entries: 1
+Finish: 2024-12-16 20:14:53.732856
