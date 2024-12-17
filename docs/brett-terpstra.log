@@ -41101,3 +41101,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Manifesto for Ubiquitous Linking and a Marked Sale!](https://brett.trpstra.net/link/535/16923018/the-manifesto-for-ubiquitous-linking-and-a-marked-sale)
 append_entries: 1
 Finish: 2024-12-17 16:16:57.601955
+------------------------------------------------------
+Started: 2024-12-17 18:19:09.720022
+Existing_entries: 329
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2024-12-17 18:19:10.521564
