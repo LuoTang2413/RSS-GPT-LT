@@ -46285,3 +46285,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-20 12:23:54.640932
+------------------------------------------------------
+Started: 2024-12-20 14:11:30.871773
+Existing_entries: 646
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Feed error: 523
+Fetching from https://meta.appinn.net/tag/ios.rss
+Feed error: 523
+Fetching from https://meta.appinn.net/tag/macos.rss
+Feed error: 523
+append_entries: 0
+error when rendering xml, skip docs/appinn
