@@ -41410,3 +41410,12 @@ Existing_entries: 332
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-21 20:12:18.731870
+------------------------------------------------------
+Started: 2024-12-21 22:10:43.968663
+Existing_entries: 332
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Introducing StretchLink.cc](https://brett.trpstra.net/link/535/16925839/introducing-stretchlink-dot-cc)
+append_entries: 1
+Finish: 2024-12-21 22:10:44.950986
