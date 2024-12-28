@@ -31814,3 +31814,12 @@ Existing_entries: 60
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-28 16:13:52.884293
+------------------------------------------------------
+Started: 2024-12-28 18:15:49.253859
+Existing_entries: 60
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Diary of a CEO Book: Lessons](https://lopespm.com/notes/2024/12/28/diary-of-ceo-book-lessons.html)
+append_entries: 1
+Finish: 2024-12-28 18:15:49.570812
