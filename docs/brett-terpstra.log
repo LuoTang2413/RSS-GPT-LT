@@ -42073,3 +42073,12 @@ Existing_entries: 339
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2024-12-30 18:16:50.825656
+------------------------------------------------------
+Started: 2024-12-30 20:13:04.233355
+Existing_entries: 339
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brett's Favorites 2024: Hardware](https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware)
+append_entries: 1
+Finish: 2024-12-30 20:13:05.092415
