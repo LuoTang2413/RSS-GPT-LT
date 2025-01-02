@@ -42307,3 +42307,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Web Excursions for January 2nd, 2025](https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025)
 append_entries: 1
 Finish: 2025-01-02 18:17:00.170869
+------------------------------------------------------
+Started: 2025-01-02 20:13:11.582190
+Existing_entries: 345
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2025-01-02 20:13:12.299486
