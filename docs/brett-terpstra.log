@@ -42289,3 +42289,12 @@ Existing_entries: 343
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-02 14:11:16.878158
+------------------------------------------------------
+Started: 2025-01-02 16:15:12.903603
+Existing_entries: 343
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brett's Favorites 2024: Behind The Scenes](https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes)
+append_entries: 1
+Finish: 2025-01-02 16:15:13.739311
