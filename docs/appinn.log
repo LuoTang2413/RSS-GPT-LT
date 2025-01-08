@@ -48132,3 +48132,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-01-08 08:16:46.227391
+------------------------------------------------------
+Started: 2025-01-08 10:13:32.411161
+Existing_entries: 682
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [微信机器人怎么搞，想监控群消息](https://meta.appinn.net/t/topic/65026)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-08 10:13:35.436713
