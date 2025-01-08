@@ -42742,3 +42742,12 @@ Existing_entries: 348
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-08 16:15:37.397401
+------------------------------------------------------
+Started: 2025-01-08 18:17:16.904447
+Existing_entries: 348
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Habit Traffic: A Unique Approach to Habit Tracking](https://brett.trpstra.net/link/535/16936381/habit-traffic-a-unique-approach)
+append_entries: 1
+Finish: 2025-01-08 18:17:18.039124
