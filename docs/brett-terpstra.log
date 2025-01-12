@@ -43048,3 +43048,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [My "remote" web development setup](https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup)
 append_entries: 1
 Finish: 2025-01-12 18:15:29.343800
+------------------------------------------------------
+Started: 2025-01-12 20:12:51.713074
+Existing_entries: 352
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2025-01-12 20:12:52.952467
