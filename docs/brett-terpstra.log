@@ -43123,3 +43123,12 @@ Existing_entries: 353
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-13 18:18:21.275653
+------------------------------------------------------
+Started: 2025-01-13 20:13:06.943535
+Existing_entries: 353
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strikethrough and emojis for mdless](https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless)
+append_entries: 1
+Finish: 2025-01-13 20:13:07.788556
