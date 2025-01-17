@@ -43402,3 +43402,12 @@ Existing_entries: 354
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-17 14:11:14.116154
+------------------------------------------------------
+Started: 2025-01-17 16:14:21.090959
+Existing_entries: 354
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Marky gets DEVONthink integration](https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration)
+append_entries: 1
+Finish: 2025-01-17 16:14:21.889838
