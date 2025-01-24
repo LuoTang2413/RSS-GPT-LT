@@ -43930,3 +43930,12 @@ Existing_entries: 358
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-01-24 18:16:52.485052
+------------------------------------------------------
+Started: 2025-01-24 20:12:48.423114
+Existing_entries: 358
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Inbox AI giveaway winners!](https://brett.trpstra.net/link/535/16946789/the-inboxai-giveaway-winners)
+append_entries: 1
+Finish: 2025-01-24 20:12:49.733105
