@@ -44644,3 +44644,12 @@ Existing_entries: 362
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-02-03 12:23:37.904575
+------------------------------------------------------
+Started: 2025-02-03 14:12:08.607763
+Existing_entries: 362
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EagleFiler giveaway!](https://brett.trpstra.net/link/535/16953856/eaglefiler-giveaway)
+append_entries: 1
+Finish: 2025-02-03 14:12:09.974973
