@@ -45091,3 +45091,12 @@ Existing_entries: 365
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-02-09 14:10:00.368524
+------------------------------------------------------
+Started: 2025-02-09 16:13:23.597112
+Existing_entries: 365
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readwise to DEVONthink update](https://brett.trpstra.net/link/535/16959046/readwise-devonthink-update)
+append_entries: 1
+Finish: 2025-02-09 16:13:24.584836
