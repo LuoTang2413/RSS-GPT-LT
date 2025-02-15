@@ -45523,3 +45523,12 @@ Existing_entries: 367
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-02-15 12:21:11.877891
+------------------------------------------------------
+Started: 2025-02-15 14:10:11.527033
+Existing_entries: 367
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Curio giveaway winners!](https://brett.trpstra.net/link/535/16963219/the-curio-giveaway-winners)
+append_entries: 1
+Finish: 2025-02-15 14:10:12.430797
