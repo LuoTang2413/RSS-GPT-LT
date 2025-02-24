@@ -46186,3 +46186,15 @@ Existing_entries: 372
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-02-24 12:25:22.802839
+------------------------------------------------------
+Started: 2025-02-24 14:12:52.371768
+Existing_entries: 372
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mouse Pro giveaway!](https://brett.trpstra.net/link/535/16969702/mouse-pro-giveaway)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Soundtrack fun](https://brett.trpstra.net/link/535/16969703/soundtrack-fun)
+append_entries: 2
+Finish: 2025-02-24 14:12:53.469457
