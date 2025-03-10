@@ -47215,3 +47215,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SpamSieve giveaway!](https://brett.trpstra.net/link/535/16980374/spamsieve-giveaway)
 append_entries: 1
 Finish: 2025-03-10 14:13:18.471677
+------------------------------------------------------
+Started: 2025-03-10 16:14:31.487370
+Existing_entries: 381
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Marked 2.6.46 -- Mermaid, Highlighting, and More](https://brett.trpstra.net/link/535/16980488/marked-2-dot-6-46)
+append_entries: 1
+Finish: 2025-03-10 16:14:32.820101
