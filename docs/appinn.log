@@ -54081,3 +54081,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [Macos有什么有意思的小工具推荐？](https://meta.appinn.net/t/topic/67381)
 append_entries: 1
 Finish: 2025-03-10 18:16:24.775083
+------------------------------------------------------
+Started: 2025-03-10 20:14:37.499211
+Existing_entries: 748
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-03-10 20:14:40.539000
