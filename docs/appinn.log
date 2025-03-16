@@ -54668,3 +54668,11 @@ Append: [免费手机扫描应用大盘点](https://meta.appinn.net/t/topic/6765
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-03-16 18:16:49.160738
+------------------------------------------------------
+Started: 2025-03-16 20:13:45.130360
+Existing_entries: 759
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-03-16 20:13:48.001379
