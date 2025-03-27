@@ -48463,3 +48463,12 @@ Existing_entries: 389
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-27 14:13:18.083716
+------------------------------------------------------
+Started: 2025-03-27 16:17:05.727049
+Existing_entries: 389
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TaskPaper to (GitHub Flavored) Markdown](https://brett.trpstra.net/link/535/16992848/taskpaper-to-github-flavored-markdown)
+append_entries: 1
+Finish: 2025-03-27 16:17:06.704955
