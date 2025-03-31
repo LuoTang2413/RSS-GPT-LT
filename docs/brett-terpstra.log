@@ -48754,3 +48754,12 @@ Existing_entries: 392
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-03-31 12:27:22.073059
+------------------------------------------------------
+Started: 2025-03-31 14:13:46.387042
+Existing_entries: 392
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keyboard Maestro giveaway!](https://brett.trpstra.net/link/535/16995593/keyboard-maestro-giveaway)
+append_entries: 1
+Finish: 2025-03-31 14:13:47.589801
