@@ -48907,3 +48907,12 @@ Existing_entries: 393
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-04-02 14:13:32.333791
+------------------------------------------------------
+Started: 2025-04-02 16:17:32.668339
+Existing_entries: 393
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SearchLink with URL Previews!](https://brett.trpstra.net/link/535/16997221/searchlink-with-url-previews)
+append_entries: 1
+Finish: 2025-04-02 16:17:33.912530
