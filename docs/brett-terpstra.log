@@ -48916,3 +48916,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SearchLink with URL Previews!](https://brett.trpstra.net/link/535/16997221/searchlink-with-url-previews)
 append_entries: 1
 Finish: 2025-04-02 16:17:33.912530
+------------------------------------------------------
+Started: 2025-04-02 18:18:41.057830
+Existing_entries: 394
+Fetching from https://brett.trpstra.net/brettterpstra
+append_entries: 0
+Finish: 2025-04-02 18:18:42.077348
