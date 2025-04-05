@@ -49138,3 +49138,12 @@ Existing_entries: 394
 Fetching from https://brett.trpstra.net/brettterpstra
 append_entries: 0
 Finish: 2025-04-05 18:16:23.077596
+------------------------------------------------------
+Started: 2025-04-05 20:13:07.923711
+Existing_entries: 394
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Markdown Lipsum API v3](https://brett.trpstra.net/link/535/16999720/markdown-lipsum-api-v3)
+append_entries: 1
+Finish: 2025-04-05 20:13:09.062616
